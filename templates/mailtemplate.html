@@ -1,0 +1,11 @@
+<html>
+      <head></head>
+      <body>
+       <div class="contentContainer">
+                    {% for i in entrieslist %}
+                        <h1>{{ i.title|safe }}</h1>
+                        <h2>{{ i.summary|safe }}</h2>
+                    {% endfor %}
+       </div>
+      </body>
+</html>

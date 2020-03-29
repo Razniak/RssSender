@@ -1,0 +1,74 @@
+<!-- quiz/templates/index.html -->
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>RSS Feed Sender</title>
+</head>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="jumbotron">
+                <h1>Rss Sender App</h1>
+                <form class="add-form" method="POST" action="{{ url_for('sendRss')}}">
+                    <label for="inputRss" class="sr-only">Rss</label>
+                    <input type="name" name="inputRss" id="inputRss" class="form-control" placeholder="Rss" required
+                        autofocus>
+                    <label for="inputEmail" class="sr-only">Email address</label>
+                    <input type="email" name="inputEmail" id="inputEmail" class="form-control"
+                        placeholder="Email address" required autofocus>
+
+                    <button id="btnsendRss" class="btn btn-lg btn-primary btn-block" type="submit">Zapisz</button>
+                </form>
+                <form method="POST" action="{{ url_for('send') }}">
+                    <!-- wysyłamy jedynie informacje o id zadania -->
+                    <button id=btnsendRsss class="btn btn-lg btn-primary btn-block" type="submit">Send</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="jumbotron">
+                <h1>RSS LIST:</h1>
+
+                <ol>
+                    <!-- wypisujemy kolejno wszystkie zadania -->
+                    {% for i in listarssow %}
+                    <li>{{ i }}</li>
+                    <form method="POST" action="{{ url_for('delete') }}">
+                        <!-- wysyłamy jedynie informacje o id zadania -->
+                        <input type="hidden" name="id" value="{{ i}}" />
+                        <button type="submit">Usun</button>
+                    </form>
+                    {% endfor %}
+                </ol>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="jumbotron">
+                <h1>Email View: </h1>
+                 <div class="contentContainer">
+                    {% for i in entrieslist %}
+                        <h1>{{ i.title|safe }}</h1>
+                        <h2>{{ i.summary|safe }}</h2>
+                    {% endfor %}
+                 </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
