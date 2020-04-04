@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 client = MongoClient("mongodb://rsssender:jRwmwyuWBl5VtKcmGKjZnyhukL6HaUxt0X7oSteWYSR1JD7VVe5atFkoQ0TfM7ypGJzxk8w71FlEgn7W7ebb2g==@rsssender.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@rsssender@")
 db1 = client.test
-db1.authenticate(name="rsssender" ,password='jRwmwyuWBl5VtKcmGKjZnyhukL6HaUxt0X7oSteWYSR1JD7VVe5atFkoQ0TfM7ypGJzxk8w71FlEgn7W7ebb2g==')
+db1.authenticate(name="rsssender", password='jRwmwyuWBl5VtKcmGKjZnyhukL6HaUxt0X7oSteWYSR1JD7VVe5atFkoQ0TfM7ypGJzxk8w71FlEgn7W7ebb2g==')
 
 
 app.config.update(dict(
@@ -17,18 +17,27 @@ app.config.update(dict(
 ))
 
 
-@app.route('/send', methods=['POST'])
-def send():
-
+def downloadRss():
     RssListColection = db1.rsslist.find({}, {'_id': 0, 'email': 0})
-    EmailListCollection = db1.rsslist.find({}, {'_id': 0, 'rss': 0})
-    email = EmailListCollection[0]
     listarssow = []
     entrieslist = []
     for x in RssListColection:
         listarssow.append(x['rss'])
+    return listarssow
 
-    for x in listarssow:
+
+@app.route('/send', methods=['POST'])
+def send():
+    RssListColection = db1.rsslist.find({}, {'_id': 0, 'email': 0})
+    EmailListCollection = db1.rsslist.find({}, {'_id': 0, 'rss': 0})
+    email = EmailListCollection[0]
+    listarssow = []
+    listarssowv2 = downloadRss()
+    entrieslist = []
+    for x in RssListColection:
+        listarssowv2.append(x['rss'])
+
+    for x in listarssowv2:
         feed = feedparser.parse(x)
         entries = feed.entries
         for z in entries:
