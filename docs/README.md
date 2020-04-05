@@ -3,7 +3,7 @@
 Napisane testy do odczytu, wysyłania, zapisu oraz usuwania w jmeter.
 
 Poniżej znajduje się graf z wykonanymi testami
-![Graph result](https://github.com/Razniak/RssSender/graph.png "Graph result")
+![Graph result](https://github.com/Razniak/RssSender/blob/master/docs/graph.png "Graph result")
 
 ## Dane
 
