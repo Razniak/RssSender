@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2070965d-1835-41df-97c4-6d0d22407cfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/testes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rss.py" beforeDir="false" afterPath="$PROJECT_DIR$/rss.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,30 +95,30 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="440" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.835@0.23.1440.835" timestamp="1585305689926" />
-    <state width="1419" height="216" key="GridCell.Tab.0.bottom" timestamp="1586018131433">
+    <state width="1419" height="216" key="GridCell.Tab.0.bottom" timestamp="1586021312700">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1419" height="216" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1586018131433" />
-    <state width="1419" height="216" key="GridCell.Tab.0.center" timestamp="1586018131432">
+    <state width="1419" height="216" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1586021312700" />
+    <state width="1419" height="216" key="GridCell.Tab.0.center" timestamp="1586021312697">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1419" height="216" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1586018131432" />
-    <state width="1419" height="216" key="GridCell.Tab.0.left" timestamp="1586018131432">
+    <state width="1419" height="216" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1586021312697" />
+    <state width="1419" height="216" key="GridCell.Tab.0.left" timestamp="1586021312695">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1419" height="216" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1586018131432" />
-    <state width="1419" height="216" key="GridCell.Tab.0.right" timestamp="1586018131433">
+    <state width="1419" height="216" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1586021312695" />
+    <state width="1419" height="216" key="GridCell.Tab.0.right" timestamp="1586021312699">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1419" height="216" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1586018131433" />
+    <state width="1419" height="216" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1586021312699" />
     <state width="720" height="417" key="XDebugger.FullValuePopup" timestamp="1585421530218">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state width="720" height="417" key="XDebugger.FullValuePopup/0.23.1440.835@0.23.1440.835" timestamp="1585421530218" />
-    <state x="397" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1585923651256">
+    <state x="397" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1586022197372">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state x="397" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1585923651256" />
+    <state x="397" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1586022197372" />
     <state x="378" y="62" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585156408334">
       <screen x="0" y="23" width="1440" height="835" />
     </state>

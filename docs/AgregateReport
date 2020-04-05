@@ -1,0 +1,1011 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586089305398,24,get,200,OK,Grupa wątków 1-1,text,true,,2759,116,1,1,http://127.0.0.1:5000/,24,0,0
+1586089305427,189,delete,200,OK,Grupa wątków 1-1,text,true,,3351,562,1,1,http://127.0.0.1:5000/sendRss,126,0,1
+1586089305427,126,delete-0,302,FOUND,Grupa wątków 1-1,text,true,,592,439,1,1,http://127.0.0.1:5000/delete,126,0,1
+1586089305554,62,delete-1,200,OK,Grupa wątków 1-1,text,true,,2759,123,1,1,http://127.0.0.1:5000/sendRss,62,0,0
+1586089306401,2,get,200,OK,Grupa wątków 1-2,text,true,,2759,116,2,2,http://127.0.0.1:5000/,2,0,0
+1586089305617,1602,save,200,OK,Grupa wątków 1-1,text,true,,10164,781,2,2,http://127.0.0.1:5000/sendRss,639,0,1
+1586089305617,640,save-0,302,FOUND,Grupa wątków 1-1,text,true,,580,658,2,2,http://127.0.0.1:5000/sendRss,639,0,1
+1586089306257,962,save-1,200,OK,Grupa wątków 1-1,text,true,,9584,123,2,2,http://127.0.0.1:5000/sendRss,962,0,0
+1586089306406,995,delete,200,OK,Grupa wątków 1-2,text,true,,10176,553,3,3,http://127.0.0.1:5000/sendRss,88,0,0
+1586089306406,88,delete-0,302,FOUND,Grupa wątków 1-2,text,true,,592,430,3,3,http://127.0.0.1:5000/delete,88,0,0
+1586089306494,907,delete-1,200,OK,Grupa wątków 1-2,text,true,,9584,123,3,3,http://127.0.0.1:5000/sendRss,907,0,1
+1586089307401,4,get,200,OK,Grupa wątków 1-3,text,true,,2759,116,3,3,http://127.0.0.1:5000/,4,0,1
+1586089308401,3,get,200,OK,Grupa wątków 1-4,text,true,,2759,116,4,4,http://127.0.0.1:5000/,3,0,1
+1586089307402,1820,save,200,OK,Grupa wątków 1-2,text,true,,16990,797,4,4,http://127.0.0.1:5000/sendRss,63,0,1
+1586089307402,63,save-0,302,FOUND,Grupa wątków 1-2,text,true,,580,674,4,4,http://127.0.0.1:5000/sendRss,63,0,1
+1586089307465,1757,save-1,200,OK,Grupa wątków 1-2,text,true,,16410,123,4,4,http://127.0.0.1:5000/sendRss,1757,0,0
+1586089309401,16,get,200,OK,Grupa wątków 1-5,text,true,,2759,116,5,5,http://127.0.0.1:5000/,16,0,1
+1586089307405,2553,delete,200,OK,Grupa wątków 1-3,text,true,,17002,541,5,5,http://127.0.0.1:5000/sendRss,755,0,1
+1586089307405,755,delete-0,302,FOUND,Grupa wątków 1-3,text,true,,592,418,5,5,http://127.0.0.1:5000/delete,755,0,1
+1586089308160,1798,delete-1,200,OK,Grupa wątków 1-3,text,true,,16410,123,5,5,http://127.0.0.1:5000/sendRss,1798,0,1
+1586089308404,1866,delete,200,OK,Grupa wątków 1-4,text,true,,17002,553,5,5,http://127.0.0.1:5000/sendRss,62,0,1
+1586089308404,62,delete-0,302,FOUND,Grupa wątków 1-4,text,true,,592,430,5,5,http://127.0.0.1:5000/delete,62,0,1
+1586089308466,1804,delete-1,200,OK,Grupa wątków 1-4,text,true,,16410,123,5,5,http://127.0.0.1:5000/sendRss,1804,0,1
+1586089310401,15,get,200,OK,Grupa wątków 1-6,text,true,,2759,116,6,6,http://127.0.0.1:5000/,15,0,1
+1586089309417,1839,delete,200,OK,Grupa wątków 1-5,text,true,,17002,544,6,6,http://127.0.0.1:5000/sendRss,55,0,0
+1586089309417,55,delete-0,302,FOUND,Grupa wątków 1-5,text,true,,592,421,6,6,http://127.0.0.1:5000/delete,55,0,0
+1586089309472,1784,delete-1,200,OK,Grupa wątków 1-5,text,true,,16410,123,6,6,http://127.0.0.1:5000/sendRss,1784,0,1
+1586089311399,13,get,200,OK,Grupa wątków 1-7,text,true,,2759,116,7,7,http://127.0.0.1:5000/,13,0,0
+1586089307220,5053,send,200,OK,Grupa wątków 1-1,text,true,,16831,365,7,7,http://127.0.0.1:5000/sendRss,2234,0,0
+1586089307220,2234,send-0,302,FOUND,Grupa wątków 1-1,text,true,,421,242,7,7,http://127.0.0.1:5000/send,2234,0,0
+1586089309454,2819,send-1,200,OK,Grupa wątków 1-1,text,true,,16410,123,7,7,http://127.0.0.1:5000/sendRss,2819,0,0
+1586089312274,1,get,200,OK,Grupa wątków 1-1,text,true,,2759,116,7,7,http://127.0.0.1:5000/,1,0,0
+1586089312402,2,get,200,OK,Grupa wątków 1-8,text,true,,2759,116,8,8,http://127.0.0.1:5000/,2,0,0
+1586089309958,2683,save,200,OK,Grupa wątków 1-3,text,true,,23815,805,8,8,http://127.0.0.1:5000/sendRss,60,0,0
+1586089309958,60,save-0,302,FOUND,Grupa wątków 1-3,text,true,,580,682,8,8,http://127.0.0.1:5000/sendRss,60,0,0
+1586089310019,2622,save-1,200,OK,Grupa wątków 1-3,text,true,,23235,123,8,8,http://127.0.0.1:5000/sendRss,2622,0,1
+1586089313403,3,get,200,OK,Grupa wątków 1-9,text,true,,2759,116,9,9,http://127.0.0.1:5000/,3,0,1
+1586089310271,3530,save,200,OK,Grupa wątków 1-4,text,true,,30640,801,9,9,http://127.0.0.1:5000/sendRss,60,0,0
+1586089310271,60,save-0,302,FOUND,Grupa wątków 1-4,text,true,,580,678,9,9,http://127.0.0.1:5000/sendRss,60,0,0
+1586089310331,3470,save-1,200,OK,Grupa wątków 1-4,text,true,,30060,123,9,9,http://127.0.0.1:5000/sendRss,3470,0,1
+1586089314397,3,get,200,OK,Grupa wątków 1-10,text,true,,2759,116,10,10,http://127.0.0.1:5000/,3,0,1
+1586089310416,4586,delete,200,OK,Grupa wątków 1-6,text,true,,30652,553,10,10,http://127.0.0.1:5000/sendRss,58,0,0
+1586089310416,58,delete-0,302,FOUND,Grupa wątków 1-6,text,true,,592,430,10,10,http://127.0.0.1:5000/delete,58,0,0
+1586089310474,4528,delete-1,200,OK,Grupa wątków 1-6,text,true,,30060,123,10,10,http://127.0.0.1:5000/sendRss,4528,0,0
+1586089315401,3,get,200,OK,Grupa wątków 1-11,text,true,,2759,116,11,11,http://127.0.0.1:5000/,3,0,0
+1586089311256,4367,save,200,OK,Grupa wątków 1-5,text,true,,37465,801,11,11,http://127.0.0.1:5000/sendRss,56,0,1
+1586089311256,56,save-0,302,FOUND,Grupa wątków 1-5,text,true,,580,678,11,11,http://127.0.0.1:5000/sendRss,56,0,1
+1586089311312,4311,save-1,200,OK,Grupa wątków 1-5,text,true,,36885,123,11,11,http://127.0.0.1:5000/sendRss,4311,0,1
+1586089311412,4432,delete,200,OK,Grupa wątków 1-7,text,true,,37477,562,11,11,http://127.0.0.1:5000/sendRss,55,0,1
+1586089311412,55,delete-0,302,FOUND,Grupa wątków 1-7,text,true,,592,439,11,11,http://127.0.0.1:5000/delete,55,0,1
+1586089311467,4377,delete-1,200,OK,Grupa wątków 1-7,text,true,,36885,123,11,11,http://127.0.0.1:5000/sendRss,4377,0,0
+1586089316400,4,get,200,OK,Grupa wątków 1-12,text,true,,2759,116,12,12,http://127.0.0.1:5000/,4,0,1
+1586089312276,4401,delete,200,OK,Grupa wątków 1-1,text,true,,37477,553,12,12,http://127.0.0.1:5000/sendRss,55,0,0
+1586089312276,55,delete-0,302,FOUND,Grupa wątków 1-1,text,true,,592,430,12,12,http://127.0.0.1:5000/delete,55,0,0
+1586089312331,4346,delete-1,200,OK,Grupa wątków 1-1,text,true,,36885,123,12,12,http://127.0.0.1:5000/sendRss,4346,0,0
+1586089312404,4373,delete,200,OK,Grupa wątków 1-8,text,true,,37477,553,12,12,http://127.0.0.1:5000/sendRss,60,0,1
+1586089312404,60,delete-0,302,FOUND,Grupa wątków 1-8,text,true,,592,430,12,12,http://127.0.0.1:5000/delete,60,0,1
+1586089312464,4313,delete-1,200,OK,Grupa wątków 1-8,text,true,,36885,123,12,12,http://127.0.0.1:5000/sendRss,4313,0,0
+1586089317399,5,get,200,OK,Grupa wątków 1-13,text,true,,2759,116,13,13,http://127.0.0.1:5000/,5,0,1
+1586089309224,8299,send,200,OK,Grupa wątków 1-2,text,true,,37306,365,13,13,http://127.0.0.1:5000/sendRss,3952,0,1
+1586089309224,3952,send-0,302,FOUND,Grupa wątków 1-2,text,true,,421,242,13,13,http://127.0.0.1:5000/send,3952,0,1
+1586089313176,4347,send-1,200,OK,Grupa wątków 1-2,text,true,,36885,123,13,13,http://127.0.0.1:5000/sendRss,4347,0,0
+1586089317524,24,get,200,OK,Grupa wątków 1-2,text,true,,2759,116,13,13,http://127.0.0.1:5000/,24,0,0
+1586089313406,4369,delete,200,OK,Grupa wątków 1-9,text,true,,37477,556,13,13,http://127.0.0.1:5000/sendRss,56,0,0
+1586089313406,56,delete-0,302,FOUND,Grupa wątków 1-9,text,true,,592,433,13,13,http://127.0.0.1:5000/delete,56,0,0
+1586089313462,4313,delete-1,200,OK,Grupa wątków 1-9,text,true,,36885,123,13,13,http://127.0.0.1:5000/sendRss,4313,0,0
+1586089318401,3,get,200,OK,Grupa wątków 1-14,text,true,,2759,116,14,14,http://127.0.0.1:5000/,3,0,0
+1586089314400,4432,delete,200,OK,Grupa wątków 1-10,text,true,,37477,547,14,14,http://127.0.0.1:5000/sendRss,57,0,1
+1586089314400,57,delete-0,302,FOUND,Grupa wątków 1-10,text,true,,592,424,14,14,http://127.0.0.1:5000/delete,57,0,1
+1586089314457,4375,delete-1,200,OK,Grupa wątków 1-10,text,true,,36885,123,14,14,http://127.0.0.1:5000/sendRss,4375,0,0
+1586089319400,16,get,200,OK,Grupa wątków 1-15,text,true,,2759,116,15,15,http://127.0.0.1:5000/,16,0,1
+1586089320402,4,get,200,OK,Grupa wątków 1-16,text,true,,2759,116,16,16,http://127.0.0.1:5000/,3,0,0
+1586089315003,5445,save,200,OK,Grupa wątków 1-6,text,true,,44290,801,16,16,http://127.0.0.1:5000/sendRss,74,0,0
+1586089315003,74,save-0,302,FOUND,Grupa wątków 1-6,text,true,,580,678,16,16,http://127.0.0.1:5000/sendRss,74,0,0
+1586089315076,5372,save-1,200,OK,Grupa wątków 1-6,text,true,,43710,123,16,16,http://127.0.0.1:5000/sendRss,5372,0,0
+1586089315405,5246,delete,200,OK,Grupa wątków 1-11,text,true,,44302,547,16,16,http://127.0.0.1:5000/sendRss,55,0,0
+1586089315405,55,delete-0,302,FOUND,Grupa wątków 1-11,text,true,,592,424,16,16,http://127.0.0.1:5000/delete,55,0,0
+1586089315460,5191,delete-1,200,OK,Grupa wątków 1-11,text,true,,43710,123,16,16,http://127.0.0.1:5000/sendRss,5191,0,0
+1586089321399,4,get,200,OK,Grupa wątków 1-17,text,true,,2759,116,17,17,http://127.0.0.1:5000/,4,0,1
+1586089315843,6255,save,200,OK,Grupa wątków 1-7,text,true,,51115,797,17,17,http://127.0.0.1:5000/sendRss,75,0,1
+1586089315843,75,save-0,302,FOUND,Grupa wątków 1-7,text,true,,580,674,17,17,http://127.0.0.1:5000/sendRss,75,0,1
+1586089315918,6180,save-1,200,OK,Grupa wątków 1-7,text,true,,50535,123,17,17,http://127.0.0.1:5000/sendRss,6180,0,0
+1586089322397,24,get,200,OK,Grupa wątków 1-18,text,true,,2759,116,18,18,http://127.0.0.1:5000/,24,0,0
+1586089316404,6111,delete,200,OK,Grupa wątków 1-12,text,true,,51127,565,18,18,http://127.0.0.1:5000/sendRss,55,0,1
+1586089316404,55,delete-0,302,FOUND,Grupa wątków 1-12,text,true,,592,442,18,18,http://127.0.0.1:5000/delete,55,0,1
+1586089316460,6055,delete-1,200,OK,Grupa wątków 1-12,text,true,,50535,123,18,18,http://127.0.0.1:5000/sendRss,6055,0,0
+1586089323398,3,get,200,OK,Grupa wątków 1-19,text,true,,2759,116,19,19,http://127.0.0.1:5000/,3,0,1
+1586089324402,3,get,200,OK,Grupa wątków 1-20,text,true,,2759,116,20,20,http://127.0.0.1:5000/,3,0,1
+1586089316677,8118,save,200,OK,Grupa wątków 1-1,text,true,,57940,809,20,20,http://127.0.0.1:5000/sendRss,61,0,0
+1586089316677,61,save-0,302,FOUND,Grupa wątków 1-1,text,true,,580,686,20,20,http://127.0.0.1:5000/sendRss,61,0,0
+1586089316738,8057,save-1,200,OK,Grupa wątków 1-1,text,true,,57360,123,20,20,http://127.0.0.1:5000/sendRss,8057,0,0
+1586089316777,8170,save,200,OK,Grupa wątków 1-8,text,true,,64765,793,20,20,http://127.0.0.1:5000/sendRss,61,0,0
+1586089316777,61,save-0,302,FOUND,Grupa wątków 1-8,text,true,,580,670,20,20,http://127.0.0.1:5000/sendRss,61,0,0
+1586089316838,8109,save-1,200,OK,Grupa wątków 1-8,text,true,,64185,123,20,20,http://127.0.0.1:5000/sendRss,8108,0,0
+1586089325404,11,get,200,OK,Grupa wątków 1-21,text,true,,2759,116,21,21,http://127.0.0.1:5000/,11,0,0
+1586089317404,8232,delete,200,OK,Grupa wątków 1-13,text,true,,64777,538,21,21,http://127.0.0.1:5000/sendRss,56,0,0
+1586089317404,56,delete-0,302,FOUND,Grupa wątków 1-13,text,true,,592,415,21,21,http://127.0.0.1:5000/delete,56,0,0
+1586089317460,8176,delete-1,200,OK,Grupa wątków 1-13,text,true,,64185,123,21,21,http://127.0.0.1:5000/sendRss,8176,0,1
+1586089326401,11,get,200,OK,Grupa wątków 1-22,text,true,,2759,116,22,22,http://127.0.0.1:5000/,11,0,1
+1586089317549,8863,delete,200,OK,Grupa wątków 1-2,text,true,,64777,568,22,22,http://127.0.0.1:5000/sendRss,58,0,1
+1586089317549,58,delete-0,302,FOUND,Grupa wątków 1-2,text,true,,592,445,22,22,http://127.0.0.1:5000/delete,58,0,1
+1586089317607,8805,delete-1,200,OK,Grupa wątków 1-2,text,true,,64185,123,22,22,http://127.0.0.1:5000/sendRss,8804,0,0
+1586089327399,6,get,200,OK,Grupa wątków 1-23,text,true,,2759,116,23,23,http://127.0.0.1:5000/,6,0,0
+1586089318405,9094,delete,200,OK,Grupa wątków 1-14,text,true,,71602,541,23,23,http://127.0.0.1:5000/sendRss,54,0,0
+1586089318405,54,delete-0,302,FOUND,Grupa wątków 1-14,text,true,,592,418,23,23,http://127.0.0.1:5000/delete,54,0,0
+1586089318459,9040,delete-1,200,OK,Grupa wątków 1-14,text,true,,71010,123,23,23,http://127.0.0.1:5000/sendRss,9040,0,0
+1586089317775,10487,save,200,OK,Grupa wątków 1-9,text,true,,71590,773,23,23,http://127.0.0.1:5000/sendRss,57,0,0
+1586089317775,57,save-0,302,FOUND,Grupa wątków 1-9,text,true,,580,650,23,23,http://127.0.0.1:5000/sendRss,57,0,0
+1586089317832,10430,save-1,200,OK,Grupa wątków 1-9,text,true,,71010,123,23,23,http://127.0.0.1:5000/sendRss,10429,0,0
+1586089328402,3,get,200,OK,Grupa wątków 1-24,text,true,,2759,116,24,24,http://127.0.0.1:5000/,3,0,0
+1586089318831,9780,save,200,OK,Grupa wątków 1-10,text,true,,78415,797,24,24,http://127.0.0.1:5000/sendRss,90,0,1
+1586089318831,90,save-0,302,FOUND,Grupa wątków 1-10,text,true,,580,674,24,24,http://127.0.0.1:5000/sendRss,90,0,1
+1586089318921,9690,save-1,200,OK,Grupa wątków 1-10,text,true,,77835,123,24,24,http://127.0.0.1:5000/sendRss,9690,0,1
+1586089319417,9651,delete,200,OK,Grupa wątków 1-15,text,true,,78427,550,24,24,http://127.0.0.1:5000/sendRss,63,0,0
+1586089319417,63,delete-0,302,FOUND,Grupa wątków 1-15,text,true,,592,427,24,24,http://127.0.0.1:5000/delete,63,0,0
+1586089319480,9588,delete-1,200,OK,Grupa wątków 1-15,text,true,,77835,123,24,24,http://127.0.0.1:5000/sendRss,9587,0,0
+1586089329402,5,get,200,OK,Grupa wątków 1-25,text,true,,2759,116,25,25,http://127.0.0.1:5000/,5,0,0
+1586089330401,14,get,200,OK,Grupa wątków 1-26,text,true,,2759,116,26,26,http://127.0.0.1:5000/,14,0,0
+1586089320654,10719,save,200,OK,Grupa wątków 1-11,text,true,,85240,793,26,26,http://127.0.0.1:5000/sendRss,60,0,1
+1586089320654,60,save-0,302,FOUND,Grupa wątków 1-11,text,true,,580,670,26,26,http://127.0.0.1:5000/sendRss,60,0,1
+1586089320714,10659,save-1,200,OK,Grupa wątków 1-11,text,true,,84660,123,26,26,http://127.0.0.1:5000/sendRss,10658,0,0
+1586089331399,2,get,200,OK,Grupa wątków 1-27,text,true,,2759,116,27,27,http://127.0.0.1:5000/,2,0,0
+1586089332402,22,get,200,OK,Grupa wątków 1-28,text,true,,2759,116,28,28,http://127.0.0.1:5000/,22,0,1
+1586089322421,10652,delete,200,OK,Grupa wątków 1-18,text,true,,85252,547,28,28,http://127.0.0.1:5000/sendRss,85,0,0
+1586089322421,85,delete-0,302,FOUND,Grupa wątków 1-18,text,true,,592,424,28,28,http://127.0.0.1:5000/delete,85,0,0
+1586089322506,10567,delete-1,200,OK,Grupa wątków 1-18,text,true,,84660,123,28,28,http://127.0.0.1:5000/sendRss,10567,0,0
+1586089312642,20778,send,200,OK,Grupa wątków 1-3,text,true,,85081,365,29,29,http://127.0.0.1:5000/sendRss,9181,0,0
+1586089312642,9181,send-0,302,FOUND,Grupa wątków 1-3,text,true,,421,242,29,29,http://127.0.0.1:5000/send,9181,0,0
+1586089321823,11597,send-1,200,OK,Grupa wątków 1-3,text,true,,84660,123,29,29,http://127.0.0.1:5000/sendRss,11597,0,0
+1586089333398,23,get,200,OK,Grupa wątków 1-29,text,true,,2759,116,29,29,http://127.0.0.1:5000/,23,0,1
+1586089333420,18,get,200,OK,Grupa wątków 1-3,text,true,,2759,116,29,29,http://127.0.0.1:5000/,18,0,1
+1586089320407,13337,delete,200,OK,Grupa wątków 1-16,text,true,,78427,553,29,29,http://127.0.0.1:5000/sendRss,61,0,0
+1586089320407,61,delete-0,302,FOUND,Grupa wątków 1-16,text,true,,592,430,29,29,http://127.0.0.1:5000/delete,61,0,0
+1586089320469,13275,delete-1,200,OK,Grupa wątków 1-16,text,true,,77835,123,29,29,http://127.0.0.1:5000/sendRss,13275,0,0
+1586089334401,24,get,200,OK,Grupa wątków 1-30,text,true,,2759,116,30,30,http://127.0.0.1:5000/,23,0,0
+1586089321404,13143,delete,200,OK,Grupa wątków 1-17,text,true,,85252,544,30,30,http://127.0.0.1:5000/sendRss,61,0,1
+1586089321404,61,delete-0,302,FOUND,Grupa wątków 1-17,text,true,,592,421,30,30,http://127.0.0.1:5000/delete,61,0,1
+1586089321465,13082,delete-1,200,OK,Grupa wątków 1-17,text,true,,84660,123,30,30,http://127.0.0.1:5000/sendRss,13081,0,1
+1586089323402,11459,delete,200,OK,Grupa wątków 1-19,text,true,,92077,544,30,30,http://127.0.0.1:5000/sendRss,59,0,0
+1586089323402,59,delete-0,302,FOUND,Grupa wątków 1-19,text,true,,592,421,30,30,http://127.0.0.1:5000/delete,59,0,0
+1586089323461,11400,delete-1,200,OK,Grupa wątków 1-19,text,true,,91485,123,30,30,http://127.0.0.1:5000/sendRss,11400,0,0
+1586089313801,21141,send,200,OK,Grupa wątków 1-4,text,true,,91906,365,30,30,http://127.0.0.1:5000/sendRss,9348,0,1
+1586089313801,9348,send-0,302,FOUND,Grupa wątków 1-4,text,true,,421,242,30,30,http://127.0.0.1:5000/send,9348,0,1
+1586089323149,11793,send-1,200,OK,Grupa wątków 1-4,text,true,,91485,123,30,30,http://127.0.0.1:5000/sendRss,11793,0,0
+1586089334943,21,get,200,OK,Grupa wątków 1-4,text,true,,2759,116,30,30,http://127.0.0.1:5000/,21,0,0
+1586089322517,12898,save,200,OK,Grupa wątków 1-12,text,true,,92065,785,31,31,http://127.0.0.1:5000/sendRss,76,0,0
+1586089322517,76,save-0,302,FOUND,Grupa wątków 1-12,text,true,,580,662,31,31,http://127.0.0.1:5000/sendRss,76,0,0
+1586089322593,12822,save-1,200,OK,Grupa wątków 1-12,text,true,,91485,123,31,31,http://127.0.0.1:5000/sendRss,12822,0,0
+1586089335401,34,get,200,OK,Grupa wątków 1-31,text,true,,2759,116,31,31,http://127.0.0.1:5000/,34,0,1
+1586089324406,11743,delete,200,OK,Grupa wątków 1-20,text,true,,92077,568,31,31,http://127.0.0.1:5000/sendRss,57,0,0
+1586089324406,57,delete-0,302,FOUND,Grupa wątków 1-20,text,true,,592,445,31,31,http://127.0.0.1:5000/delete,57,0,0
+1586089324463,11686,delete-1,200,OK,Grupa wątków 1-20,text,true,,91485,123,31,31,http://127.0.0.1:5000/sendRss,11686,0,1
+1586089336397,3,get,200,OK,Grupa wątków 1-32,text,true,,2759,116,32,32,http://127.0.0.1:5000/,3,0,1
+1586089337398,2,get,200,OK,Grupa wątków 1-33,text,true,,2759,116,33,33,http://127.0.0.1:5000/,2,0,0
+1586089325637,12593,save,200,OK,Grupa wątków 1-13,text,true,,98890,805,33,33,http://127.0.0.1:5000/sendRss,61,0,1
+1586089325637,61,save-0,302,FOUND,Grupa wątków 1-13,text,true,,580,682,33,33,http://127.0.0.1:5000/sendRss,61,0,1
+1586089325698,12532,save-1,200,OK,Grupa wątków 1-13,text,true,,98310,123,33,33,http://127.0.0.1:5000/sendRss,12532,0,0
+1586089325415,12868,delete,200,OK,Grupa wątków 1-21,text,true,,92077,538,33,33,http://127.0.0.1:5000/sendRss,55,0,0
+1586089325415,55,delete-0,302,FOUND,Grupa wątków 1-21,text,true,,592,415,33,33,http://127.0.0.1:5000/delete,55,0,0
+1586089325470,12813,delete-1,200,OK,Grupa wątków 1-21,text,true,,91485,123,33,33,http://127.0.0.1:5000/sendRss,12813,0,1
+1586089338398,19,get,200,OK,Grupa wątków 1-34,text,true,,2759,116,34,34,http://127.0.0.1:5000/,19,0,0
+1586089339397,15,get,200,OK,Grupa wątków 1-35,text,true,,2759,116,35,35,http://127.0.0.1:5000/,15,0,1
+1586089326413,13378,save,200,OK,Grupa wątków 1-2,text,true,,105716,813,35,35,http://127.0.0.1:5000/sendRss,70,0,0
+1586089326413,71,save-0,302,FOUND,Grupa wątków 1-2,text,true,,580,690,35,35,http://127.0.0.1:5000/sendRss,70,0,0
+1586089326484,13307,save-1,200,OK,Grupa wątków 1-2,text,true,,105136,123,35,35,http://127.0.0.1:5000/sendRss,13307,0,0
+1586089326413,13637,delete,200,OK,Grupa wątków 1-22,text,true,,105728,565,35,35,http://127.0.0.1:5000/sendRss,60,0,0
+1586089326413,60,delete-0,302,FOUND,Grupa wątków 1-22,text,true,,592,442,35,35,http://127.0.0.1:5000/delete,60,0,0
+1586089326473,13577,delete-1,200,OK,Grupa wątków 1-22,text,true,,105136,123,35,35,http://127.0.0.1:5000/sendRss,13576,0,1
+1586089340396,42,get,200,OK,Grupa wątków 1-36,text,true,,2759,116,36,36,http://127.0.0.1:5000/,42,0,0
+1586089341401,39,get,200,OK,Grupa wątków 1-37,text,true,,2759,116,37,37,http://127.0.0.1:5000/,39,0,1
+1586089315622,26306,send,200,OK,Grupa wątków 1-5,text,true,,105557,365,37,37,http://127.0.0.1:5000/sendRss,11425,0,0
+1586089315622,11425,send-0,302,FOUND,Grupa wątków 1-5,text,true,,421,242,37,37,http://127.0.0.1:5000/send,11425,0,0
+1586089327048,14880,send-1,200,OK,Grupa wątków 1-5,text,true,,105136,123,37,37,http://127.0.0.1:5000/sendRss,14880,0,1
+1586089341928,15,get,200,OK,Grupa wątków 1-5,text,true,,2759,116,37,37,http://127.0.0.1:5000/,15,0,1
+1586089342402,41,get,200,OK,Grupa wątków 1-38,text,true,,2759,116,38,38,http://127.0.0.1:5000/,41,0,1
+1586089328405,14164,delete,200,OK,Grupa wątków 1-24,text,true,,112553,556,38,38,http://127.0.0.1:5000/sendRss,57,0,0
+1586089328405,57,delete-0,302,FOUND,Grupa wątków 1-24,text,true,,592,433,38,38,http://127.0.0.1:5000/delete,57,0,0
+1586089328463,14106,delete-1,200,OK,Grupa wątków 1-24,text,true,,111961,123,38,38,http://127.0.0.1:5000/sendRss,14105,0,0
+1586089327501,15880,save,200,OK,Grupa wątków 1-14,text,true,,112541,813,38,38,http://127.0.0.1:5000/sendRss,61,0,0
+1586089327501,61,save-0,302,FOUND,Grupa wątków 1-14,text,true,,580,690,38,38,http://127.0.0.1:5000/sendRss,61,0,0
+1586089327562,15819,save-1,200,OK,Grupa wątków 1-14,text,true,,111961,123,38,38,http://127.0.0.1:5000/sendRss,15818,0,0
+1586089343402,24,get,200,OK,Grupa wątków 1-39,text,true,,2759,116,39,39,http://127.0.0.1:5000/,24,0,1
+1586089327406,16568,delete,200,OK,Grupa wątków 1-23,text,true,,105728,559,39,39,http://127.0.0.1:5000/sendRss,82,0,0
+1586089327406,82,delete-0,302,FOUND,Grupa wątków 1-23,text,true,,592,436,39,39,http://127.0.0.1:5000/delete,82,0,0
+1586089327488,16486,delete-1,200,OK,Grupa wątków 1-23,text,true,,105136,123,39,39,http://127.0.0.1:5000/sendRss,16486,0,0
+1586089344402,4,get,200,OK,Grupa wątków 1-40,text,true,,2759,116,40,40,http://127.0.0.1:5000/,4,0,0
+1586089329407,15591,delete,200,OK,Grupa wątków 1-25,text,true,,119378,562,40,40,http://127.0.0.1:5000/sendRss,68,0,0
+1586089329407,68,delete-0,302,FOUND,Grupa wątków 1-25,text,true,,592,439,40,40,http://127.0.0.1:5000/delete,68,0,0
+1586089329475,15523,delete-1,200,OK,Grupa wątków 1-25,text,true,,118786,123,40,40,http://127.0.0.1:5000/sendRss,15523,0,0
+1586089345403,6,get,200,OK,Grupa wątków 1-41,text,true,,2759,116,41,41,http://127.0.0.1:5000/,6,0,1
+1586089329069,16631,save,200,OK,Grupa wątków 1-15,text,true,,119366,813,41,41,http://127.0.0.1:5000/sendRss,74,0,0
+1586089329069,74,save-0,302,FOUND,Grupa wątków 1-15,text,true,,580,690,41,41,http://127.0.0.1:5000/sendRss,74,0,0
+1586089329143,16557,save-1,200,OK,Grupa wątków 1-15,text,true,,118786,123,41,41,http://127.0.0.1:5000/sendRss,16557,0,0
+1586089330416,15705,delete,200,OK,Grupa wątków 1-26,text,true,,119378,559,41,41,http://127.0.0.1:5000/sendRss,74,0,0
+1586089330416,74,delete-0,302,FOUND,Grupa wątków 1-26,text,true,,592,436,41,41,http://127.0.0.1:5000/delete,74,0,0
+1586089330491,15630,delete-1,200,OK,Grupa wątków 1-26,text,true,,118786,123,41,41,http://127.0.0.1:5000/sendRss,15629,0,0
+1586089346396,25,get,200,OK,Grupa wątków 1-42,text,true,,2759,116,42,42,http://127.0.0.1:5000/,25,0,1
+1586089347403,5,get,200,OK,Grupa wątków 1-43,text,true,,2759,116,43,43,http://127.0.0.1:5000/,5,0,0
+1586089348400,37,get,200,OK,Grupa wątków 1-44,text,true,,2759,116,44,44,http://127.0.0.1:5000/,37,0,0
+1586089332424,16902,delete,200,OK,Grupa wątków 1-28,text,true,,119378,538,44,44,http://127.0.0.1:5000/sendRss,69,0,0
+1586089332424,69,delete-0,302,FOUND,Grupa wątków 1-28,text,true,,592,415,44,44,http://127.0.0.1:5000/delete,69,0,0
+1586089332493,16833,delete-1,200,OK,Grupa wątków 1-28,text,true,,118786,123,44,44,http://127.0.0.1:5000/sendRss,16833,0,1
+1586089349402,11,get,200,OK,Grupa wątków 1-45,text,true,,2759,116,45,45,http://127.0.0.1:5000/,11,0,0
+1586089350399,45,get,200,OK,Grupa wątków 1-46,text,true,,2759,116,46,46,http://127.0.0.1:5000/,45,0,1
+1586089333073,17737,save,200,OK,Grupa wątków 1-18,text,true,,126191,813,46,46,http://127.0.0.1:5000/sendRss,83,0,1
+1586089333073,83,save-0,302,FOUND,Grupa wątków 1-18,text,true,,580,690,46,46,http://127.0.0.1:5000/sendRss,83,0,1
+1586089333156,17654,save-1,200,OK,Grupa wątków 1-18,text,true,,125611,123,46,46,http://127.0.0.1:5000/sendRss,17654,0,0
+1586089333438,17384,delete,200,OK,Grupa wątków 1-3,text,true,,126203,538,46,46,http://127.0.0.1:5000/sendRss,103,0,1
+1586089333438,103,delete-0,302,FOUND,Grupa wątków 1-3,text,true,,592,415,46,46,http://127.0.0.1:5000/delete,103,0,1
+1586089333541,17281,delete-1,200,OK,Grupa wątków 1-3,text,true,,125611,123,46,46,http://127.0.0.1:5000/sendRss,17281,0,0
+1586089351401,27,get,200,OK,Grupa wątków 1-47,text,true,,2759,116,47,47,http://127.0.0.1:5000/,27,0,1
+1586089333422,18361,delete,200,OK,Grupa wątków 1-29,text,true,,126203,565,47,47,http://127.0.0.1:5000/sendRss,97,0,0
+1586089333422,97,delete-0,302,FOUND,Grupa wątków 1-29,text,true,,592,442,47,47,http://127.0.0.1:5000/delete,97,0,0
+1586089333519,18264,delete-1,200,OK,Grupa wątków 1-29,text,true,,125611,123,47,47,http://127.0.0.1:5000/sendRss,18264,0,0
+1586089331402,20737,delete,200,OK,Grupa wątków 1-27,text,true,,119378,568,47,47,http://127.0.0.1:5000/sendRss,73,0,1
+1586089331402,73,delete-0,302,FOUND,Grupa wątków 1-27,text,true,,592,445,47,47,http://127.0.0.1:5000/delete,73,0,1
+1586089331476,20663,delete-1,200,OK,Grupa wątków 1-27,text,true,,118786,123,47,47,http://127.0.0.1:5000/sendRss,20663,0,0
+1586089333745,18656,save,200,OK,Grupa wątków 1-16,text,true,,133016,793,48,48,http://127.0.0.1:5000/sendRss,58,0,0
+1586089333745,58,save-0,302,FOUND,Grupa wątków 1-16,text,true,,580,670,48,48,http://127.0.0.1:5000/sendRss,58,0,0
+1586089333803,18598,save-1,200,OK,Grupa wątków 1-16,text,true,,132436,123,48,48,http://127.0.0.1:5000/sendRss,18598,0,0
+1586089352398,6,get,200,OK,Grupa wątków 1-48,text,true,,2759,116,48,48,http://127.0.0.1:5000/,6,0,0
+1586089334425,18732,delete,200,OK,Grupa wątków 1-30,text,true,,133028,553,48,48,http://127.0.0.1:5000/sendRss,72,0,1
+1586089334425,72,delete-0,302,FOUND,Grupa wątków 1-30,text,true,,592,430,48,48,http://127.0.0.1:5000/delete,72,0,1
+1586089334497,18660,delete-1,200,OK,Grupa wątków 1-30,text,true,,132436,123,48,48,http://127.0.0.1:5000/sendRss,18660,0,1
+1586089353400,16,get,200,OK,Grupa wątków 1-49,text,true,,2759,116,49,49,http://127.0.0.1:5000/,16,0,0
+1586089354401,32,get,200,OK,Grupa wątków 1-50,text,true,,2759,116,50,50,http://127.0.0.1:5000/,32,0,0
+1586089334547,20453,save,200,OK,Grupa wątków 1-17,text,true,,139841,801,50,50,http://127.0.0.1:5000/sendRss,87,0,0
+1586089334547,87,save-0,302,FOUND,Grupa wątków 1-17,text,true,,580,678,50,50,http://127.0.0.1:5000/sendRss,87,0,0
+1586089334634,20366,save-1,200,OK,Grupa wątków 1-17,text,true,,139261,123,50,50,http://127.0.0.1:5000/sendRss,20366,0,0
+1586089355400,18,get,200,OK,Grupa wątków 1-51,text,true,,2759,116,51,51,http://127.0.0.1:5000/,18,0,0
+1586089334964,20979,delete,200,OK,Grupa wątków 1-4,text,true,,146678,538,51,51,http://127.0.0.1:5000/sendRss,68,0,0
+1586089334964,68,delete-0,302,FOUND,Grupa wątków 1-4,text,true,,592,415,51,51,http://127.0.0.1:5000/delete,68,0,0
+1586089335032,20911,delete-1,200,OK,Grupa wątków 1-4,text,true,,146086,123,51,51,http://127.0.0.1:5000/sendRss,20911,0,0
+1586089334861,21159,save,200,OK,Grupa wątków 1-19,text,true,,146666,773,51,51,http://127.0.0.1:5000/sendRss,63,0,0
+1586089334861,63,save-0,302,FOUND,Grupa wątków 1-19,text,true,,580,650,51,51,http://127.0.0.1:5000/sendRss,63,0,0
+1586089334924,21096,save-1,200,OK,Grupa wątków 1-19,text,true,,146086,123,51,51,http://127.0.0.1:5000/sendRss,21096,0,1
+1586089335435,20997,delete,200,OK,Grupa wątków 1-31,text,true,,146678,538,52,52,http://127.0.0.1:5000/sendRss,91,0,1
+1586089335435,91,delete-0,302,FOUND,Grupa wątków 1-31,text,true,,592,415,52,52,http://127.0.0.1:5000/delete,91,0,1
+1586089335526,20906,delete-1,200,OK,Grupa wątków 1-31,text,true,,146086,123,52,52,http://127.0.0.1:5000/sendRss,20906,0,0
+1586089356403,31,get,200,OK,Grupa wątków 1-52,text,true,,2759,116,52,52,http://127.0.0.1:5000/,31,0,0
+1586089336401,20845,delete,200,OK,Grupa wątków 1-32,text,true,,153503,559,52,52,http://127.0.0.1:5000/sendRss,82,0,0
+1586089336401,82,delete-0,302,FOUND,Grupa wątków 1-32,text,true,,592,436,52,52,http://127.0.0.1:5000/delete,82,0,0
+1586089336483,20763,delete-1,200,OK,Grupa wątków 1-32,text,true,,152911,123,52,52,http://127.0.0.1:5000/sendRss,20763,0,0
+1586089357401,70,get,200,OK,Grupa wątków 1-53,text,true,,2759,116,53,53,http://127.0.0.1:5000/,70,0,0
+1586089358397,20,get,200,OK,Grupa wątków 1-54,text,true,,2759,116,54,54,http://127.0.0.1:5000/,20,0,0
+1586089359396,29,get,200,OK,Grupa wątków 1-55,text,true,,2759,116,55,55,http://127.0.0.1:5000/,29,0,1
+1586089337400,22754,delete,200,OK,Grupa wątków 1-33,text,true,,153503,550,55,55,http://127.0.0.1:5000/sendRss,63,0,0
+1586089337400,63,delete-0,302,FOUND,Grupa wątków 1-33,text,true,,592,427,55,55,http://127.0.0.1:5000/delete,63,0,0
+1586089337463,22691,delete-1,200,OK,Grupa wątków 1-33,text,true,,152911,123,55,55,http://127.0.0.1:5000/sendRss,22691,0,0
+1586089360401,60,get,200,OK,Grupa wątków 1-56,text,true,,2759,116,56,56,http://127.0.0.1:5000/,60,0,0
+1586089338418,22192,delete,200,OK,Grupa wątków 1-34,text,true,,160328,559,56,56,http://127.0.0.1:5000/sendRss,101,0,0
+1586089338418,101,delete-0,302,FOUND,Grupa wątków 1-34,text,true,,592,436,56,56,http://127.0.0.1:5000/delete,101,0,0
+1586089338519,22091,delete-1,200,OK,Grupa wątków 1-34,text,true,,159736,123,56,56,http://127.0.0.1:5000/sendRss,22091,0,0
+1586089338283,22584,save,200,OK,Grupa wątków 1-21,text,true,,160316,793,56,56,http://127.0.0.1:5000/sendRss,70,0,1
+1586089338283,70,save-0,302,FOUND,Grupa wątków 1-21,text,true,,580,670,56,56,http://127.0.0.1:5000/sendRss,70,0,1
+1586089338353,22514,save-1,200,OK,Grupa wątków 1-21,text,true,,159736,123,56,56,http://127.0.0.1:5000/sendRss,22514,0,0
+1586089336149,25225,save,200,OK,Grupa wątków 1-20,text,true,,153491,773,56,56,http://127.0.0.1:5000/sendRss,60,0,0
+1586089336149,60,save-0,302,FOUND,Grupa wątków 1-20,text,true,,580,650,56,56,http://127.0.0.1:5000/sendRss,60,0,0
+1586089336209,25165,save-1,200,OK,Grupa wątków 1-20,text,true,,152911,123,56,56,http://127.0.0.1:5000/sendRss,25164,0,0
+1586089361396,15,get,200,OK,Grupa wątków 1-57,text,true,,2759,116,57,57,http://127.0.0.1:5000/,15,0,0
+1586089362403,24,get,200,OK,Grupa wątków 1-58,text,true,,2759,116,58,58,http://127.0.0.1:5000/,24,0,1
+1586089363402,9,get,200,OK,Grupa wątków 1-59,text,true,,2759,116,59,59,http://127.0.0.1:5000/,9,0,1
+1586089364397,46,get,200,OK,Grupa wątków 1-60,text,true,,2759,116,60,60,http://127.0.0.1:5000/,46,0,0
+1586089365396,22,get,200,OK,Grupa wątków 1-61,text,true,,2759,116,61,61,http://127.0.0.1:5000/,22,0,1
+1586089339412,26674,delete,200,OK,Grupa wątków 1-35,text,true,,160328,562,61,61,http://127.0.0.1:5000/sendRss,109,0,1
+1586089339412,109,delete-0,302,FOUND,Grupa wątków 1-35,text,true,,592,439,61,61,http://127.0.0.1:5000/delete,109,0,1
+1586089339521,26565,delete-1,200,OK,Grupa wątków 1-35,text,true,,159736,123,61,61,http://127.0.0.1:5000/sendRss,26565,0,1
+1586089341440,24910,delete,200,OK,Grupa wątków 1-37,text,true,,167153,562,61,61,http://127.0.0.1:5000/sendRss,81,0,0
+1586089341440,81,delete-0,302,FOUND,Grupa wątków 1-37,text,true,,592,439,61,61,http://127.0.0.1:5000/delete,81,0,0
+1586089341521,24829,delete-1,200,OK,Grupa wątków 1-37,text,true,,166561,123,61,61,http://127.0.0.1:5000/sendRss,24829,0,0
+1586089366397,11,get,200,OK,Grupa wątków 1-62,text,true,,2759,116,62,62,http://127.0.0.1:5000/,11,0,0
+1586089367397,29,get,200,OK,Grupa wątków 1-63,text,true,,2759,116,63,63,http://127.0.0.1:5000/,29,0,0
+1586089320449,47570,send,200,OK,Grupa wątków 1-6,text,true,,166982,365,63,63,http://127.0.0.1:5000/sendRss,20606,0,1
+1586089320449,20606,send-0,302,FOUND,Grupa wątków 1-6,text,true,,421,242,63,63,http://127.0.0.1:5000/send,20606,0,1
+1586089341055,26964,send-1,200,OK,Grupa wątków 1-6,text,true,,166561,123,63,63,http://127.0.0.1:5000/sendRss,26964,0,0
+1586089368020,31,get,200,OK,Grupa wątków 1-6,text,true,,2759,116,63,63,http://127.0.0.1:5000/,31,0,0
+1586089340438,27938,delete,200,OK,Grupa wątków 1-36,text,true,,167153,541,63,63,http://127.0.0.1:5000/sendRss,69,0,0
+1586089340438,69,delete-0,302,FOUND,Grupa wątków 1-36,text,true,,592,418,63,63,http://127.0.0.1:5000/delete,69,0,0
+1586089340507,27869,delete-1,200,OK,Grupa wątków 1-36,text,true,,166561,123,63,63,http://127.0.0.1:5000/sendRss,27869,0,1
+1586089368402,28,get,200,OK,Grupa wątków 1-64,text,true,,2759,116,64,64,http://127.0.0.1:5000/,28,0,1
+1586089342569,25997,save,200,OK,Grupa wątków 1-24,text,true,,173966,801,64,64,http://127.0.0.1:5000/sendRss,59,0,0
+1586089342569,59,save-0,302,FOUND,Grupa wątków 1-24,text,true,,580,678,64,64,http://127.0.0.1:5000/sendRss,59,0,0
+1586089342628,25938,save-1,200,OK,Grupa wątków 1-24,text,true,,173386,123,64,64,http://127.0.0.1:5000/sendRss,25938,0,0
+1586089369397,22,get,200,OK,Grupa wątków 1-65,text,true,,2759,116,65,65,http://127.0.0.1:5000/,22,0,0
+1586089340050,29869,save,200,OK,Grupa wątków 1-22,text,true,,167141,781,65,65,http://127.0.0.1:5000/sendRss,97,0,0
+1586089340050,97,save-0,302,FOUND,Grupa wątków 1-22,text,true,,580,658,65,65,http://127.0.0.1:5000/sendRss,97,0,0
+1586089340147,29772,save-1,200,OK,Grupa wątków 1-22,text,true,,166561,123,65,65,http://127.0.0.1:5000/sendRss,29772,0,0
+1586089370396,22,get,200,OK,Grupa wątków 1-66,text,true,,2759,116,66,66,http://127.0.0.1:5000/,22,0,0
+1586089342443,28802,delete,200,OK,Grupa wątków 1-38,text,true,,167153,559,66,66,http://127.0.0.1:5000/sendRss,93,0,1
+1586089342443,93,delete-0,302,FOUND,Grupa wątków 1-38,text,true,,592,436,66,66,http://127.0.0.1:5000/delete,93,0,1
+1586089342536,28709,delete-1,200,OK,Grupa wątków 1-38,text,true,,166561,123,66,66,http://127.0.0.1:5000/sendRss,28709,0,0
+1586089371399,72,get,200,OK,Grupa wątków 1-67,text,true,,2759,116,67,67,http://127.0.0.1:5000/,72,0,0
+1586089341943,30283,delete,200,OK,Grupa wątków 1-5,text,true,,167153,538,67,67,http://127.0.0.1:5000/sendRss,57,0,1
+1586089341943,57,delete-0,302,FOUND,Grupa wątków 1-5,text,true,,592,415,67,67,http://127.0.0.1:5000/delete,57,0,1
+1586089342000,30226,delete-1,200,OK,Grupa wątków 1-5,text,true,,166561,123,67,67,http://127.0.0.1:5000/sendRss,30226,0,1
+1586089372397,28,get,200,OK,Grupa wątków 1-68,text,true,,2759,116,68,68,http://127.0.0.1:5000/,28,0,0
+1586089373402,24,get,200,OK,Grupa wątków 1-69,text,true,,2759,116,69,69,http://127.0.0.1:5000/,24,0,1
+1586089343427,30622,delete,200,OK,Grupa wątków 1-39,text,true,,173978,541,69,69,http://127.0.0.1:5000/sendRss,75,0,0
+1586089343427,75,delete-0,302,FOUND,Grupa wątków 1-39,text,true,,592,418,69,69,http://127.0.0.1:5000/delete,75,0,0
+1586089343502,30547,delete-1,200,OK,Grupa wątków 1-39,text,true,,173386,123,69,69,http://127.0.0.1:5000/sendRss,30547,0,1
+1586089374399,23,get,200,OK,Grupa wątków 1-70,text,true,,2759,116,70,70,http://127.0.0.1:5000/,23,0,0
+1586089343974,30551,save,200,OK,Grupa wątków 1-23,text,true,,180791,789,70,70,http://127.0.0.1:5000/sendRss,76,0,1
+1586089343974,76,save-0,302,FOUND,Grupa wątków 1-23,text,true,,580,666,70,70,http://127.0.0.1:5000/sendRss,76,0,1
+1586089344050,30475,save-1,200,OK,Grupa wątków 1-23,text,true,,180211,123,70,70,http://127.0.0.1:5000/sendRss,30475,0,0
+1586089344407,30990,delete,200,OK,Grupa wątków 1-40,text,true,,180803,541,71,71,http://127.0.0.1:5000/sendRss,66,0,0
+1586089344407,66,delete-0,302,FOUND,Grupa wątków 1-40,text,true,,592,418,71,71,http://127.0.0.1:5000/delete,66,0,0
+1586089344473,30924,delete-1,200,OK,Grupa wątków 1-40,text,true,,180211,123,71,71,http://127.0.0.1:5000/sendRss,30924,0,1
+1586089375397,25,get,200,OK,Grupa wątków 1-71,text,true,,2759,116,71,71,http://127.0.0.1:5000/,25,0,0
+1586089376400,25,get,200,OK,Grupa wątków 1-72,text,true,,2759,116,72,72,http://127.0.0.1:5000/,25,0,0
+1586089377400,26,get,200,OK,Grupa wątków 1-73,text,true,,2759,116,73,73,http://127.0.0.1:5000/,26,0,0
+1586089347409,30660,delete,200,OK,Grupa wątków 1-43,text,true,,194453,538,73,73,http://127.0.0.1:5000/sendRss,77,0,0
+1586089347409,77,delete-0,302,FOUND,Grupa wątków 1-43,text,true,,592,415,73,73,http://127.0.0.1:5000/delete,77,0,0
+1586089347486,30583,delete-1,200,OK,Grupa wątków 1-43,text,true,,193861,123,73,73,http://127.0.0.1:5000/sendRss,30583,0,0
+1586089378397,27,get,200,OK,Grupa wątków 1-74,text,true,,2759,116,74,74,http://127.0.0.1:5000/,27,0,0
+1586089345409,33637,delete,200,OK,Grupa wątków 1-41,text,true,,187628,565,74,74,http://127.0.0.1:5000/sendRss,64,0,1
+1586089345409,64,delete-0,302,FOUND,Grupa wątków 1-41,text,true,,592,442,74,74,http://127.0.0.1:5000/delete,64,0,1
+1586089345473,33573,delete-1,200,OK,Grupa wątków 1-41,text,true,,187036,123,74,74,http://127.0.0.1:5000/sendRss,33573,0,0
+1586089379400,29,get,200,OK,Grupa wątków 1-75,text,true,,2759,116,75,75,http://127.0.0.1:5000/,29,0,0
+1586089380403,17,get,200,OK,Grupa wątków 1-76,text,true,,2759,116,76,76,http://127.0.0.1:5000/,17,0,1
+1586089346422,34333,delete,200,OK,Grupa wątków 1-42,text,true,,194453,538,76,76,http://127.0.0.1:5000/sendRss,100,0,1
+1586089346422,100,delete-0,302,FOUND,Grupa wątków 1-42,text,true,,592,415,76,76,http://127.0.0.1:5000/delete,100,0,1
+1586089346522,34233,delete-1,200,OK,Grupa wątków 1-42,text,true,,193861,123,76,76,http://127.0.0.1:5000/sendRss,34233,0,1
+1586089346122,35068,save,200,OK,Grupa wątków 1-26,text,true,,194441,801,76,76,http://127.0.0.1:5000/sendRss,77,0,0
+1586089346122,77,save-0,302,FOUND,Grupa wątków 1-26,text,true,,580,678,76,76,http://127.0.0.1:5000/sendRss,77,0,0
+1586089346199,34991,save-1,200,OK,Grupa wątków 1-26,text,true,,193861,123,76,76,http://127.0.0.1:5000/sendRss,34991,0,0
+1586089381397,34,get,200,OK,Grupa wątków 1-77,text,true,,2759,116,77,77,http://127.0.0.1:5000/,34,0,0
+1586089348437,33524,delete,200,OK,Grupa wątków 1-44,text,true,,194453,544,77,77,http://127.0.0.1:5000/sendRss,84,0,0
+1586089348437,84,delete-0,302,FOUND,Grupa wątków 1-44,text,true,,592,421,77,77,http://127.0.0.1:5000/delete,84,0,0
+1586089348521,33440,delete-1,200,OK,Grupa wątków 1-44,text,true,,193861,123,77,77,http://127.0.0.1:5000/sendRss,33440,0,0
+1586089382398,41,get,200,OK,Grupa wątków 1-78,text,true,,2759,116,78,78,http://127.0.0.1:5000/,41,0,0
+1586089322100,60909,send,200,OK,Grupa wątków 1-7,text,true,,194282,365,78,78,http://127.0.0.1:5000/sendRss,24990,0,0
+1586089322100,24990,send-0,302,FOUND,Grupa wątków 1-7,text,true,,421,242,78,78,http://127.0.0.1:5000/send,24990,0,0
+1586089347092,35917,send-1,200,OK,Grupa wątków 1-7,text,true,,193861,123,78,78,http://127.0.0.1:5000/sendRss,35917,0,0
+1586089383009,21,get,200,OK,Grupa wątków 1-7,text,true,,2759,116,78,78,http://127.0.0.1:5000/,21,0,1
+1586089383396,23,get,200,OK,Grupa wątków 1-79,text,true,,2759,116,79,79,http://127.0.0.1:5000/,23,0,0
+1586089344999,38980,save,200,OK,Grupa wątków 1-25,text,true,,187616,777,79,79,http://127.0.0.1:5000/sendRss,69,0,0
+1586089344999,69,save-0,302,FOUND,Grupa wątków 1-25,text,true,,580,654,79,79,http://127.0.0.1:5000/sendRss,69,0,0
+1586089345069,38910,save-1,200,OK,Grupa wątków 1-25,text,true,,187036,123,79,79,http://127.0.0.1:5000/sendRss,38910,0,0
+1586089384399,9,get,200,OK,Grupa wątków 1-80,text,true,,2759,116,80,80,http://127.0.0.1:5000/,9,0,1
+1586089324797,59635,send,200,OK,Grupa wątków 1-1,text,true,,201107,365,80,80,http://127.0.0.1:5000/sendRss,25045,0,0
+1586089324797,25045,send-0,302,FOUND,Grupa wątków 1-1,text,true,,421,242,80,80,http://127.0.0.1:5000/send,25045,0,0
+1586089349843,34589,send-1,200,OK,Grupa wątków 1-1,text,true,,200686,123,80,80,http://127.0.0.1:5000/sendRss,34588,0,1
+1586089384432,11,get,200,OK,Grupa wątków 1-1,text,true,,2759,116,80,80,http://127.0.0.1:5000/,11,0,0
+1586089324948,60138,send,200,OK,Grupa wątków 1-8,text,true,,194282,365,80,80,http://127.0.0.1:5000/sendRss,24144,0,0
+1586089324948,24144,send-0,302,FOUND,Grupa wątków 1-8,text,true,,421,242,80,80,http://127.0.0.1:5000/send,24144,0,0
+1586089349093,35993,send-1,200,OK,Grupa wątków 1-8,text,true,,193861,123,80,80,http://127.0.0.1:5000/sendRss,35993,0,0
+1586089385087,21,get,200,OK,Grupa wątków 1-8,text,true,,2759,116,80,80,http://127.0.0.1:5000/,21,0,0
+1586089385402,29,get,200,OK,Grupa wątków 1-81,text,true,,2759,116,81,81,http://127.0.0.1:5000/,29,0,0
+1586089349413,36481,delete,200,OK,Grupa wątków 1-45,text,true,,201278,559,81,81,http://127.0.0.1:5000/sendRss,79,0,1
+1586089349413,79,delete-0,302,FOUND,Grupa wątków 1-45,text,true,,592,436,81,81,http://127.0.0.1:5000/delete,79,0,1
+1586089349492,36402,delete-1,200,OK,Grupa wątków 1-45,text,true,,200686,123,81,81,http://127.0.0.1:5000/sendRss,36401,0,0
+1586089386397,40,get,200,OK,Grupa wątków 1-82,text,true,,2759,116,82,82,http://127.0.0.1:5000/,40,0,0
+1586089387401,11,get,200,OK,Grupa wątków 1-83,text,true,,2759,116,83,83,http://127.0.0.1:5000/,11,0,0
+1586089350445,37736,delete,200,OK,Grupa wątków 1-46,text,true,,201278,562,83,83,http://127.0.0.1:5000/sendRss,89,0,0
+1586089350445,90,delete-0,302,FOUND,Grupa wątków 1-46,text,true,,592,439,83,83,http://127.0.0.1:5000/delete,89,0,0
+1586089350535,37646,delete-1,200,OK,Grupa wątków 1-46,text,true,,200686,123,83,83,http://127.0.0.1:5000/sendRss,37646,0,0
+1586089388401,21,get,200,OK,Grupa wątków 1-84,text,true,,2759,116,84,84,http://127.0.0.1:5000/,21,0,0
+1586089351429,37293,delete,200,OK,Grupa wątków 1-47,text,true,,208103,556,84,84,http://127.0.0.1:5000/sendRss,85,0,0
+1586089351429,85,delete-0,302,FOUND,Grupa wątków 1-47,text,true,,592,433,84,84,http://127.0.0.1:5000/delete,85,0,0
+1586089351514,37208,delete-1,200,OK,Grupa wątków 1-47,text,true,,207511,123,84,84,http://127.0.0.1:5000/sendRss,37208,0,0
+1586089389399,38,get,200,OK,Grupa wątków 1-85,text,true,,2759,116,85,85,http://127.0.0.1:5000/,38,0,1
+1586089390397,47,get,200,OK,Grupa wątków 1-86,text,true,,2759,116,86,86,http://127.0.0.1:5000/,47,0,1
+1586089350823,39873,save,200,OK,Grupa wątków 1-3,text,true,,208091,789,86,86,http://127.0.0.1:5000/sendRss,120,0,0
+1586089350823,120,save-0,302,FOUND,Grupa wątków 1-3,text,true,,580,666,86,86,http://127.0.0.1:5000/sendRss,120,0,0
+1586089350943,39753,save-1,200,OK,Grupa wątków 1-3,text,true,,207511,123,86,86,http://127.0.0.1:5000/sendRss,39753,0,0
+1586089349327,41720,save,200,OK,Grupa wątków 1-28,text,true,,201266,789,86,86,http://127.0.0.1:5000/sendRss,85,0,0
+1586089349327,85,save-0,302,FOUND,Grupa wątków 1-28,text,true,,580,666,86,86,http://127.0.0.1:5000/sendRss,85,0,0
+1586089349412,41635,save-1,200,OK,Grupa wątków 1-28,text,true,,200686,123,86,86,http://127.0.0.1:5000/sendRss,41635,0,0
+1586089391396,18,get,200,OK,Grupa wątków 1-87,text,true,,2759,116,87,87,http://127.0.0.1:5000/,18,0,0
+1586089392399,51,get,200,OK,Grupa wątków 1-88,text,true,,2759,116,88,88,http://127.0.0.1:5000/,51,0,0
+1586089393401,9,get,200,OK,Grupa wątków 1-89,text,true,,2759,116,89,89,http://127.0.0.1:5000/,9,0,0
+1586089351785,41625,save,200,OK,Grupa wątków 1-29,text,true,,214916,781,89,89,http://127.0.0.1:5000/sendRss,90,0,0
+1586089351785,90,save-0,302,FOUND,Grupa wątków 1-29,text,true,,580,658,89,89,http://127.0.0.1:5000/sendRss,90,0,0
+1586089351875,41535,save-1,200,OK,Grupa wątków 1-29,text,true,,214336,123,89,89,http://127.0.0.1:5000/sendRss,41535,0,0
+1586089394397,24,get,200,OK,Grupa wątków 1-90,text,true,,2759,116,90,90,http://127.0.0.1:5000/,24,0,0
+1586089352405,42380,delete,200,OK,Grupa wątków 1-48,text,true,,221753,556,90,90,http://127.0.0.1:5000/sendRss,105,0,0
+1586089352405,105,delete-0,302,FOUND,Grupa wątków 1-48,text,true,,592,433,90,90,http://127.0.0.1:5000/delete,105,0,0
+1586089352510,42275,delete-1,200,OK,Grupa wątków 1-48,text,true,,221161,123,90,90,http://127.0.0.1:5000/sendRss,42274,0,0
+1586089395399,23,get,200,OK,Grupa wątków 1-91,text,true,,2759,116,91,91,http://127.0.0.1:5000/,23,0,0
+1586089396400,53,get,200,OK,Grupa wątków 1-92,text,true,,2759,116,92,92,http://127.0.0.1:5000/,53,0,0
+1586089397401,12,get,200,OK,Grupa wątków 1-93,text,true,,2759,116,93,93,http://127.0.0.1:5000/,12,0,0
+1586089398402,27,get,200,OK,Grupa wątków 1-94,text,true,,2759,116,94,94,http://127.0.0.1:5000/,27,0,0
+1586089399398,34,get,200,OK,Grupa wątków 1-95,text,true,,2759,116,95,95,http://127.0.0.1:5000/,34,0,0
+1586089400398,61,get,200,OK,Grupa wątków 1-96,text,true,,2759,116,96,96,http://127.0.0.1:5000/,61,0,0
+1586089401398,15,get,200,OK,Grupa wątków 1-97,text,true,,2759,116,97,97,http://127.0.0.1:5000/,15,0,0
+1586089402401,11,get,200,OK,Grupa wątków 1-98,text,true,,2759,116,98,98,http://127.0.0.1:5000/,11,0,0
+1586089354433,48188,delete,200,OK,Grupa wątków 1-50,text,true,,228578,562,98,98,http://127.0.0.1:5000/sendRss,71,0,0
+1586089354433,71,delete-0,302,FOUND,Grupa wątków 1-50,text,true,,592,439,98,98,http://127.0.0.1:5000/delete,71,0,0
+1586089354504,48117,delete-1,200,OK,Grupa wątków 1-50,text,true,,227986,123,98,98,http://127.0.0.1:5000/sendRss,48117,0,0
+1586089403397,20,get,200,OK,Grupa wątków 1-99,text,true,,2759,116,99,99,http://127.0.0.1:5000/,20,0,1
+1586089353158,50700,save,200,OK,Grupa wątków 1-30,text,true,,228566,773,99,99,http://127.0.0.1:5000/sendRss,78,0,1
+1586089353158,78,save-0,302,FOUND,Grupa wątków 1-30,text,true,,580,650,99,99,http://127.0.0.1:5000/sendRss,78,0,1
+1586089353236,50622,save-1,200,OK,Grupa wątków 1-30,text,true,,227986,123,99,99,http://127.0.0.1:5000/sendRss,50622,0,1
+1586089404396,36,get,200,OK,Grupa wątków 1-100,text,true,,2759,116,100,100,http://127.0.0.1:5000/,36,0,0
+1586089355944,54804,save,200,OK,Grupa wątków 1-4,text,true,,235391,777,100,100,http://127.0.0.1:5000/sendRss,72,0,0
+1586089355944,72,save-0,302,FOUND,Grupa wątków 1-4,text,true,,580,654,100,100,http://127.0.0.1:5000/sendRss,72,0,0
+1586089356016,54732,save-1,200,OK,Grupa wątków 1-4,text,true,,234811,123,100,100,http://127.0.0.1:5000/sendRss,54732,0,0
+1586089352141,58980,save,200,OK,Grupa wątków 1-27,text,true,,221741,805,100,100,http://127.0.0.1:5000/sendRss,77,0,0
+1586089352141,77,save-0,302,FOUND,Grupa wątków 1-27,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,77,0,0
+1586089352218,58903,save-1,200,OK,Grupa wątków 1-27,text,true,,221161,123,100,100,http://127.0.0.1:5000/sendRss,58903,0,1
+1586089353417,57780,delete,200,OK,Grupa wątków 1-49,text,true,,228578,550,100,100,http://127.0.0.1:5000/sendRss,95,0,0
+1586089353417,95,delete-0,302,FOUND,Grupa wątków 1-49,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,95,0,0
+1586089353512,57685,delete-1,200,OK,Grupa wątków 1-49,text,true,,227986,123,100,100,http://127.0.0.1:5000/sendRss,57685,0,0
+1586089357247,54311,save,200,OK,Grupa wątków 1-32,text,true,,249041,793,100,100,http://127.0.0.1:5000/sendRss,79,0,0
+1586089357247,79,save-0,302,FOUND,Grupa wątków 1-32,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,79,0,0
+1586089357326,54232,save-1,200,OK,Grupa wątków 1-32,text,true,,248461,123,100,100,http://127.0.0.1:5000/sendRss,54231,0,1
+1586089356433,57567,save,200,OK,Grupa wątków 1-31,text,true,,242216,785,100,100,http://127.0.0.1:5000/sendRss,99,0,0
+1586089356433,99,save-0,302,FOUND,Grupa wątków 1-31,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,99,0,0
+1586089356532,57468,save-1,200,OK,Grupa wątków 1-31,text,true,,241636,123,100,100,http://127.0.0.1:5000/sendRss,57468,0,0
+1586089355418,59840,delete,200,OK,Grupa wątków 1-51,text,true,,228578,568,100,100,http://127.0.0.1:5000/sendRss,76,0,1
+1586089355418,77,delete-0,302,FOUND,Grupa wątków 1-51,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,76,0,1
+1586089355495,59763,delete-1,200,OK,Grupa wątków 1-51,text,true,,227986,123,100,100,http://127.0.0.1:5000/sendRss,59763,0,0
+1586089358418,58473,delete,200,OK,Grupa wątków 1-54,text,true,,249053,568,100,100,http://127.0.0.1:5000/sendRss,122,0,0
+1586089358418,122,delete-0,302,FOUND,Grupa wątków 1-54,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,122,0,0
+1586089358540,58351,delete-1,200,OK,Grupa wątków 1-54,text,true,,248461,123,100,100,http://127.0.0.1:5000/sendRss,58351,0,0
+1586089356435,61261,delete,200,OK,Grupa wątków 1-52,text,true,,242228,550,100,100,http://127.0.0.1:5000/sendRss,106,0,0
+1586089356435,106,delete-0,302,FOUND,Grupa wątków 1-52,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,106,0,0
+1586089356541,61155,delete-1,200,OK,Grupa wątków 1-52,text,true,,241636,123,100,100,http://127.0.0.1:5000/sendRss,61155,0,0
+1586089360155,58439,save,200,OK,Grupa wątków 1-33,text,true,,255866,789,100,100,http://127.0.0.1:5000/sendRss,119,0,1
+1586089360155,119,save-0,302,FOUND,Grupa wątków 1-33,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,119,0,1
+1586089360274,58320,save-1,200,OK,Grupa wątków 1-33,text,true,,255286,123,100,100,http://127.0.0.1:5000/sendRss,58319,0,1
+1586089361412,63792,delete,200,OK,Grupa wątków 1-57,text,true,,262703,541,100,100,http://127.0.0.1:5000/sendRss,88,0,0
+1586089361412,88,delete-0,302,FOUND,Grupa wątków 1-57,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,88,0,0
+1586089361500,63704,delete-1,200,OK,Grupa wątków 1-57,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,63704,0,1
+1586089328263,98009,send,200,OK,Grupa wątków 1-9,text,true,,262532,365,100,100,http://127.0.0.1:5000/sendRss,34699,0,1
+1586089328263,34699,send-0,302,FOUND,Grupa wątków 1-9,text,true,,421,242,100,100,http://127.0.0.1:5000/send,34699,0,1
+1586089362963,63309,send-1,200,OK,Grupa wątków 1-9,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,63309,0,0
+1586089426274,32,get,200,OK,Grupa wątków 1-9,text,true,,2759,116,100,100,http://127.0.0.1:5000/,32,0,0
+1586089360461,66872,delete,200,OK,Grupa wątków 1-56,text,true,,255878,544,100,100,http://127.0.0.1:5000/sendRss,96,0,1
+1586089360461,96,delete-0,302,FOUND,Grupa wątków 1-56,text,true,,592,421,100,100,http://127.0.0.1:5000/delete,96,0,1
+1586089360557,66776,delete-1,200,OK,Grupa wątków 1-56,text,true,,255286,123,100,100,http://127.0.0.1:5000/sendRss,66776,0,0
+1586089359425,67937,delete,200,OK,Grupa wątków 1-55,text,true,,249053,538,100,100,http://127.0.0.1:5000/sendRss,63,0,0
+1586089359425,63,delete-0,302,FOUND,Grupa wątków 1-55,text,true,,592,415,100,100,http://127.0.0.1:5000/delete,63,0,0
+1586089359488,67874,delete-1,200,OK,Grupa wątków 1-55,text,true,,248461,123,100,100,http://127.0.0.1:5000/sendRss,67874,0,0
+1586089366088,65464,save,200,OK,Grupa wątków 1-35,text,true,,269516,793,100,100,http://127.0.0.1:5000/sendRss,83,0,0
+1586089366088,83,save-0,302,FOUND,Grupa wątków 1-35,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,83,0,0
+1586089366171,65381,save-1,200,OK,Grupa wątków 1-35,text,true,,268936,123,100,100,http://127.0.0.1:5000/sendRss,65376,0,0
+1586089357472,74327,delete,200,OK,Grupa wątków 1-53,text,true,,249053,541,100,100,http://127.0.0.1:5000/sendRss,85,0,0
+1586089357472,85,delete-0,302,FOUND,Grupa wątków 1-53,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,85,0,0
+1586089357557,74242,delete-1,200,OK,Grupa wątków 1-53,text,true,,248461,123,100,100,http://127.0.0.1:5000/sendRss,74242,0,0
+1586089366408,69986,delete,200,OK,Grupa wątków 1-62,text,true,,276353,559,100,100,http://127.0.0.1:5000/sendRss,133,0,0
+1586089366408,133,delete-0,302,FOUND,Grupa wątków 1-62,text,true,,592,436,100,100,http://127.0.0.1:5000/delete,133,0,0
+1586089366541,69853,delete-1,200,OK,Grupa wątków 1-62,text,true,,275761,123,100,100,http://127.0.0.1:5000/sendRss,69849,0,1
+1586089363412,73035,delete,200,OK,Grupa wątków 1-59,text,true,,262703,538,100,100,http://127.0.0.1:5000/sendRss,73,0,0
+1586089363412,73,delete-0,302,FOUND,Grupa wątków 1-59,text,true,,592,415,100,100,http://127.0.0.1:5000/delete,73,0,0
+1586089363485,72962,delete-1,200,OK,Grupa wątków 1-59,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,72962,0,1
+1586089328612,108413,send,200,OK,Grupa wątków 1-10,text,true,,262532,365,100,100,http://127.0.0.1:5000/sendRss,36961,0,1
+1586089328612,36961,send-0,302,FOUND,Grupa wątków 1-10,text,true,,421,242,100,100,http://127.0.0.1:5000/send,36961,0,1
+1586089365574,71451,send-1,200,OK,Grupa wątków 1-10,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,71451,0,0
+1586089437028,66,get,200,OK,Grupa wątków 1-10,text,true,,2759,116,100,100,http://127.0.0.1:5000/,66,0,0
+1586089368377,68831,save,200,OK,Grupa wątków 1-36,text,true,,283166,809,100,100,http://127.0.0.1:5000/sendRss,73,0,1
+1586089368377,73,save-0,302,FOUND,Grupa wątków 1-36,text,true,,580,686,100,100,http://127.0.0.1:5000/sendRss,73,0,1
+1586089368450,68758,save-1,200,OK,Grupa wątków 1-36,text,true,,282586,123,100,100,http://127.0.0.1:5000/sendRss,68758,0,0
+1586089367427,71557,delete,200,OK,Grupa wątków 1-63,text,true,,276353,553,100,100,http://127.0.0.1:5000/sendRss,77,0,0
+1586089367427,77,delete-0,302,FOUND,Grupa wątków 1-63,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,77,0,0
+1586089367504,71480,delete-1,200,OK,Grupa wątków 1-63,text,true,,275761,123,100,100,http://127.0.0.1:5000/sendRss,71479,0,0
+1586089360612,80890,save,200,OK,Grupa wątków 1-34,text,true,,262691,793,100,100,http://127.0.0.1:5000/sendRss,73,0,0
+1586089360612,73,save-0,302,FOUND,Grupa wątków 1-34,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,73,0,0
+1586089360685,80817,save-1,200,OK,Grupa wątków 1-34,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,80817,0,0
+1586089362428,79515,delete,200,OK,Grupa wątków 1-58,text,true,,262703,568,100,100,http://127.0.0.1:5000/sendRss,73,0,0
+1586089362428,73,delete-0,302,FOUND,Grupa wątków 1-58,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,73,0,0
+1586089362501,79442,delete-1,200,OK,Grupa wątków 1-58,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,79441,0,1
+1586089368431,73857,delete,200,OK,Grupa wątków 1-64,text,true,,283178,550,100,100,http://127.0.0.1:5000/sendRss,84,0,0
+1586089368431,84,delete-0,302,FOUND,Grupa wątków 1-64,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,84,0,0
+1586089368515,73773,delete-1,200,OK,Grupa wątków 1-64,text,true,,282586,123,100,100,http://127.0.0.1:5000/sendRss,73773,0,1
+1586089365418,76924,delete,200,OK,Grupa wątków 1-61,text,true,,262703,556,100,100,http://127.0.0.1:5000/sendRss,94,0,0
+1586089365418,94,delete-0,302,FOUND,Grupa wątków 1-61,text,true,,592,433,100,100,http://127.0.0.1:5000/delete,94,0,0
+1586089365512,76830,delete-1,200,OK,Grupa wątków 1-61,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,76830,0,1
+1586089374050,73114,save,200,OK,Grupa wątków 1-39,text,true,,303641,785,100,100,http://127.0.0.1:5000/sendRss,79,0,1
+1586089374050,79,save-0,302,FOUND,Grupa wątków 1-39,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,79,0,1
+1586089374129,73035,save-1,200,OK,Grupa wątków 1-39,text,true,,303061,123,100,100,http://127.0.0.1:5000/sendRss,73035,0,1
+1586089364444,84771,delete,200,OK,Grupa wątków 1-60,text,true,,262703,556,100,100,http://127.0.0.1:5000/sendRss,79,0,0
+1586089364444,79,delete-0,302,FOUND,Grupa wątków 1-60,text,true,,592,433,100,100,http://127.0.0.1:5000/delete,79,0,0
+1586089364523,84692,delete-1,200,OK,Grupa wątków 1-60,text,true,,262111,123,100,100,http://127.0.0.1:5000/sendRss,84692,0,0
+1586089370418,80253,delete,200,OK,Grupa wątków 1-66,text,true,,283178,559,100,100,http://127.0.0.1:5000/sendRss,95,0,0
+1586089370418,95,delete-0,302,FOUND,Grupa wątków 1-66,text,true,,592,436,100,100,http://127.0.0.1:5000/delete,95,0,0
+1586089370513,80158,delete-1,200,OK,Grupa wątków 1-66,text,true,,282586,123,100,100,http://127.0.0.1:5000/sendRss,80157,0,1
+1586089372227,79152,save,200,OK,Grupa wątków 1-5,text,true,,296816,805,100,100,http://127.0.0.1:5000/sendRss,84,0,0
+1586089372227,84,save-0,302,FOUND,Grupa wątków 1-5,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,84,0,0
+1586089372311,79068,save-1,200,OK,Grupa wątków 1-5,text,true,,296236,123,100,100,http://127.0.0.1:5000/sendRss,79067,0,9
+1586089368051,83709,delete,200,OK,Grupa wątków 1-6,text,true,,276353,538,100,100,http://127.0.0.1:5000/sendRss,112,0,0
+1586089368051,112,delete-0,302,FOUND,Grupa wątków 1-6,text,true,,592,415,100,100,http://127.0.0.1:5000/delete,112,0,0
+1586089368163,83597,delete-1,200,OK,Grupa wątków 1-6,text,true,,275761,123,100,100,http://127.0.0.1:5000/sendRss,83597,0,1
+1586089366357,85483,save,200,OK,Grupa wątków 1-37,text,true,,276341,793,100,100,http://127.0.0.1:5000/sendRss,88,0,0
+1586089366357,88,save-0,302,FOUND,Grupa wątków 1-37,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,88,0,0
+1586089366445,85395,save-1,200,OK,Grupa wątków 1-37,text,true,,275761,123,100,100,http://127.0.0.1:5000/sendRss,85395,0,0
+1586089373427,84326,delete,200,OK,Grupa wątków 1-69,text,true,,296828,547,100,100,http://127.0.0.1:5000/sendRss,72,0,0
+1586089373427,72,delete-0,302,FOUND,Grupa wątków 1-69,text,true,,592,424,100,100,http://127.0.0.1:5000/delete,72,0,0
+1586089373499,84254,delete-1,200,OK,Grupa wątków 1-69,text,true,,296236,123,100,100,http://127.0.0.1:5000/sendRss,84250,0,0
+1586089369420,88351,delete,200,OK,Grupa wątków 1-65,text,true,,283178,544,100,100,http://127.0.0.1:5000/sendRss,78,0,1
+1586089369420,79,delete-0,302,FOUND,Grupa wątków 1-65,text,true,,592,421,100,100,http://127.0.0.1:5000/delete,78,0,1
+1586089369499,88272,delete-1,200,OK,Grupa wątków 1-65,text,true,,282586,123,100,100,http://127.0.0.1:5000/sendRss,88272,0,0
+1586089372426,86773,delete,200,OK,Grupa wątków 1-68,text,true,,296828,568,100,100,http://127.0.0.1:5000/sendRss,88,0,0
+1586089372426,88,delete-0,302,FOUND,Grupa wątków 1-68,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,88,0,0
+1586089372514,86685,delete-1,200,OK,Grupa wątków 1-68,text,true,,296236,123,100,100,http://127.0.0.1:5000/sendRss,86685,0,0
+1586089381431,79936,delete,200,OK,Grupa wątków 1-77,text,true,,330953,538,100,100,http://127.0.0.1:5000/sendRss,70,0,0
+1586089381431,70,delete-0,302,FOUND,Grupa wątków 1-77,text,true,,592,415,100,100,http://127.0.0.1:5000/delete,70,0,0
+1586089381501,79866,delete-1,200,OK,Grupa wątków 1-77,text,true,,330361,123,100,100,http://127.0.0.1:5000/sendRss,79865,0,0
+1586089371247,91463,save,200,OK,Grupa wątków 1-38,text,true,,289991,789,100,100,http://127.0.0.1:5000/sendRss,84,0,0
+1586089371247,84,save-0,302,FOUND,Grupa wątków 1-38,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,84,0,0
+1586089371331,91379,save-1,200,OK,Grupa wątków 1-38,text,true,,289411,123,100,100,http://127.0.0.1:5000/sendRss,91379,0,1
+1586089331373,132354,send,200,OK,Grupa wątków 1-11,text,true,,276182,365,100,100,http://127.0.0.1:5000/sendRss,36786,0,0
+1586089331373,36786,send-0,302,FOUND,Grupa wątków 1-11,text,true,,421,242,100,100,http://127.0.0.1:5000/send,36786,0,0
+1586089368160,95567,send-1,200,OK,Grupa wątków 1-11,text,true,,275761,123,100,100,http://127.0.0.1:5000/sendRss,95567,0,0
+1586089463731,8,get,200,OK,Grupa wątków 1-11,text,true,,2759,116,100,100,http://127.0.0.1:5000/,8,0,0
+1586089371472,94193,delete,200,OK,Grupa wątków 1-67,text,true,,290003,568,100,100,http://127.0.0.1:5000/sendRss,86,0,0
+1586089371472,86,delete-0,302,FOUND,Grupa wątków 1-67,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,86,0,0
+1586089371558,94107,delete-1,200,OK,Grupa wątków 1-67,text,true,,289411,123,100,100,http://127.0.0.1:5000/sendRss,94107,0,0
+1586089374422,91672,delete,200,OK,Grupa wątków 1-70,text,true,,303653,550,100,100,http://127.0.0.1:5000/sendRss,79,0,0
+1586089374422,79,delete-0,302,FOUND,Grupa wątków 1-70,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,79,0,0
+1586089374501,91593,delete-1,200,OK,Grupa wątków 1-70,text,true,,303061,123,100,100,http://127.0.0.1:5000/sendRss,91592,0,0
+1586089385108,82398,delete,200,OK,Grupa wątków 1-8,text,true,,337778,541,100,100,http://127.0.0.1:5000/sendRss,92,0,1
+1586089385108,92,delete-0,302,FOUND,Grupa wątków 1-8,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,92,0,1
+1586089385200,82306,delete-1,200,OK,Grupa wątków 1-8,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,82306,0,0
+1586089378070,91653,save,200,OK,Grupa wątków 1-43,text,true,,317291,793,100,100,http://127.0.0.1:5000/sendRss,92,0,0
+1586089378070,92,save-0,302,FOUND,Grupa wątków 1-43,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,92,0,0
+1586089378162,91561,save-1,200,OK,Grupa wątków 1-43,text,true,,316711,123,100,100,http://127.0.0.1:5000/sendRss,91560,0,0
+1586089380756,89761,save,200,OK,Grupa wątków 1-42,text,true,,330941,789,100,100,http://127.0.0.1:5000/sendRss,93,0,0
+1586089380756,93,save-0,302,FOUND,Grupa wątków 1-42,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,93,0,0
+1586089380849,89668,save-1,200,OK,Grupa wątków 1-42,text,true,,330361,123,100,100,http://127.0.0.1:5000/sendRss,89668,0,0
+1586089379429,93092,delete,200,OK,Grupa wątków 1-75,text,true,,324128,553,100,100,http://127.0.0.1:5000/sendRss,76,0,0
+1586089379429,76,delete-0,302,FOUND,Grupa wątków 1-75,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,76,0,0
+1586089379505,93016,delete-1,200,OK,Grupa wątków 1-75,text,true,,323536,123,100,100,http://127.0.0.1:5000/sendRss,93012,0,0
+1586089379046,94549,save,200,OK,Grupa wątków 1-41,text,true,,324116,805,100,100,http://127.0.0.1:5000/sendRss,97,0,0
+1586089379046,97,save-0,302,FOUND,Grupa wątków 1-41,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,97,0,0
+1586089379143,94452,save-1,200,OK,Grupa wątków 1-41,text,true,,323536,123,100,100,http://127.0.0.1:5000/sendRss,94452,0,0
+1586089387412,87839,delete,200,OK,Grupa wątków 1-83,text,true,,344603,541,100,100,http://127.0.0.1:5000/sendRss,88,0,0
+1586089387412,88,delete-0,302,FOUND,Grupa wątków 1-83,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,88,0,0
+1586089387500,87751,delete-1,200,OK,Grupa wątków 1-83,text,true,,344011,123,100,100,http://127.0.0.1:5000/sendRss,87751,0,0
+1586089385895,90093,save,200,OK,Grupa wątków 1-45,text,true,,344591,793,100,100,http://127.0.0.1:5000/sendRss,77,0,0
+1586089385895,77,save-0,302,FOUND,Grupa wątków 1-45,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,77,0,0
+1586089385972,90016,save-1,200,OK,Grupa wątków 1-45,text,true,,344011,123,100,100,http://127.0.0.1:5000/sendRss,90016,0,1
+1586089377426,99818,delete,200,OK,Grupa wątków 1-73,text,true,,310478,547,100,100,http://127.0.0.1:5000/sendRss,75,0,1
+1586089377426,75,delete-0,302,FOUND,Grupa wątków 1-73,text,true,,592,424,100,100,http://127.0.0.1:5000/delete,75,0,1
+1586089377501,99743,delete-1,200,OK,Grupa wątków 1-73,text,true,,309886,123,100,100,http://127.0.0.1:5000/sendRss,99743,0,0
+1586089384408,94125,delete,200,OK,Grupa wątków 1-80,text,true,,337778,568,100,100,http://127.0.0.1:5000/sendRss,119,0,0
+1586089384408,119,delete-0,302,FOUND,Grupa wątków 1-80,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,119,0,0
+1586089384527,94006,delete-1,200,OK,Grupa wątków 1-80,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,94005,0,0
+1586089382440,97383,delete,200,OK,Grupa wątków 1-78,text,true,,337778,541,100,100,http://127.0.0.1:5000/sendRss,98,0,0
+1586089382440,98,delete-0,302,FOUND,Grupa wątków 1-78,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,98,0,0
+1586089382538,97285,delete-1,200,OK,Grupa wątków 1-78,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,97282,0,0
+1586089375423,105166,delete,200,OK,Grupa wątków 1-71,text,true,,310478,553,100,100,http://127.0.0.1:5000/sendRss,81,0,0
+1586089375423,81,delete-0,302,FOUND,Grupa wątków 1-71,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,81,0,0
+1586089375504,105085,delete-1,200,OK,Grupa wątków 1-71,text,true,,309886,123,100,100,http://127.0.0.1:5000/sendRss,105084,0,0
+1586089384443,96270,delete,200,OK,Grupa wątków 1-1,text,true,,337778,556,100,100,http://127.0.0.1:5000/sendRss,87,0,1
+1586089384443,87,delete-0,302,FOUND,Grupa wątków 1-1,text,true,,592,433,100,100,http://127.0.0.1:5000/delete,87,0,1
+1586089384530,96183,delete-1,200,OK,Grupa wątków 1-1,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,96179,0,0
+1586089376425,104298,delete,200,OK,Grupa wątków 1-72,text,true,,310478,553,100,100,http://127.0.0.1:5000/sendRss,88,0,1
+1586089376425,88,delete-0,302,FOUND,Grupa wątków 1-72,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,88,0,1
+1586089376513,104210,delete-1,200,OK,Grupa wątków 1-72,text,true,,309886,123,100,100,http://127.0.0.1:5000/sendRss,104206,0,0
+1586089375399,105747,save,200,OK,Grupa wątków 1-40,text,true,,310466,785,100,100,http://127.0.0.1:5000/sendRss,104,0,0
+1586089375399,104,save-0,302,FOUND,Grupa wątków 1-40,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,104,0,0
+1586089375503,105643,save-1,200,OK,Grupa wątków 1-40,text,true,,309886,123,100,100,http://127.0.0.1:5000/sendRss,105642,0,0
+1586089395422,89227,delete,200,OK,Grupa wątków 1-91,text,true,,365078,562,100,100,http://127.0.0.1:5000/sendRss,79,0,1
+1586089395422,79,delete-0,302,FOUND,Grupa wątków 1-91,text,true,,592,439,100,100,http://127.0.0.1:5000/delete,79,0,1
+1586089395501,89148,delete-1,200,OK,Grupa wątków 1-91,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,89148,0,0
+1586089385432,99681,delete,200,OK,Grupa wątków 1-81,text,true,,337778,544,100,100,http://127.0.0.1:5000/sendRss,91,0,0
+1586089385432,91,delete-0,302,FOUND,Grupa wątków 1-81,text,true,,592,421,100,100,http://127.0.0.1:5000/delete,91,0,0
+1586089385523,99590,delete-1,200,OK,Grupa wątków 1-81,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,99590,0,0
+1586089388724,98887,save,200,OK,Grupa wątków 1-47,text,true,,358241,793,100,100,http://127.0.0.1:5000/sendRss,68,0,0
+1586089388724,68,save-0,302,FOUND,Grupa wątków 1-47,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,68,0,0
+1586089388792,98819,save-1,200,OK,Grupa wątków 1-47,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,98819,0,0
+1586089389437,99502,delete,200,OK,Grupa wątków 1-85,text,true,,358253,541,100,100,http://127.0.0.1:5000/sendRss,95,0,0
+1586089389437,95,delete-0,302,FOUND,Grupa wątków 1-85,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,95,0,0
+1586089389532,99407,delete-1,200,OK,Grupa wątków 1-85,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,99407,0,1
+1586089383420,107167,delete,200,OK,Grupa wątków 1-79,text,true,,337778,544,100,100,http://127.0.0.1:5000/sendRss,85,0,0
+1586089383420,85,delete-0,302,FOUND,Grupa wątków 1-79,text,true,,592,421,100,100,http://127.0.0.1:5000/delete,85,0,0
+1586089383506,107081,delete-1,200,OK,Grupa wątków 1-79,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,107081,0,0
+1586089388422,103055,delete,200,OK,Grupa wątków 1-84,text,true,,351428,550,100,100,http://127.0.0.1:5000/sendRss,106,0,1
+1586089388422,106,delete-0,302,FOUND,Grupa wątków 1-84,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,106,0,1
+1586089388528,102949,delete-1,200,OK,Grupa wątków 1-84,text,true,,350836,123,100,100,http://127.0.0.1:5000/sendRss,102945,0,0
+1586089335416,157090,send,200,OK,Grupa wątków 1-12,text,true,,337607,365,100,100,http://127.0.0.1:5000/sendRss,47941,0,0
+1586089335416,47941,send-0,302,FOUND,Grupa wątków 1-12,text,true,,421,242,100,100,http://127.0.0.1:5000/send,47941,0,0
+1586089383358,109148,send-1,200,OK,Grupa wątków 1-12,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,109148,0,1
+1586089492510,18,get,200,OK,Grupa wątków 1-12,text,true,,2759,116,100,100,http://127.0.0.1:5000/,18,0,0
+1586089380422,114854,delete,200,OK,Grupa wątków 1-76,text,true,,324128,541,100,100,http://127.0.0.1:5000/sendRss,85,0,1
+1586089380422,85,delete-0,302,FOUND,Grupa wątków 1-76,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,85,0,1
+1586089380507,114769,delete-1,200,OK,Grupa wątków 1-76,text,true,,323536,123,100,100,http://127.0.0.1:5000/sendRss,114769,0,0
+1586089378424,117369,delete,200,OK,Grupa wątków 1-74,text,true,,317303,565,100,100,http://127.0.0.1:5000/sendRss,88,0,0
+1586089378424,88,delete-0,302,FOUND,Grupa wątków 1-74,text,true,,592,442,100,100,http://127.0.0.1:5000/delete,88,0,0
+1586089378512,117281,delete-1,200,OK,Grupa wątków 1-74,text,true,,316711,123,100,100,http://127.0.0.1:5000/sendRss,117281,0,1
+1586089394421,101838,delete,200,OK,Grupa wątków 1-90,text,true,,358253,550,100,100,http://127.0.0.1:5000/sendRss,104,0,1
+1586089394421,104,delete-0,302,FOUND,Grupa wątków 1-90,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,104,0,1
+1586089394525,101734,delete-1,200,OK,Grupa wątków 1-90,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,101731,0,0
+1586089386437,111905,delete,200,OK,Grupa wątków 1-82,text,true,,344603,568,100,100,http://127.0.0.1:5000/sendRss,65,0,0
+1586089386437,65,delete-0,302,FOUND,Grupa wątków 1-82,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,65,0,0
+1586089386502,111840,delete-1,200,OK,Grupa wątków 1-82,text,true,,344011,123,100,100,http://127.0.0.1:5000/sendRss,111839,0,0
+1586089393410,106066,delete,200,OK,Grupa wątków 1-89,text,true,,358253,553,100,100,http://127.0.0.1:5000/sendRss,83,0,1
+1586089393410,83,delete-0,302,FOUND,Grupa wątków 1-89,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,83,0,1
+1586089393493,105983,delete-1,200,OK,Grupa wątków 1-89,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,105983,0,0
+1586089392451,107952,delete,200,OK,Grupa wątków 1-88,text,true,,358253,538,100,100,http://127.0.0.1:5000/sendRss,61,0,0
+1586089392451,61,delete-0,302,FOUND,Grupa wątków 1-88,text,true,,592,415,100,100,http://127.0.0.1:5000/delete,61,0,0
+1586089392513,107890,delete-1,200,OK,Grupa wątków 1-88,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,107886,0,0
+1586089383030,117674,delete,200,OK,Grupa wątków 1-7,text,true,,337778,562,100,100,http://127.0.0.1:5000/sendRss,80,0,1
+1586089383030,80,delete-0,302,FOUND,Grupa wątków 1-7,text,true,,592,439,100,100,http://127.0.0.1:5000/delete,80,0,1
+1586089383110,117594,delete-1,200,OK,Grupa wątków 1-7,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,117593,0,1
+1586089388183,112742,save,200,OK,Grupa wątków 1-46,text,true,,351416,809,100,100,http://127.0.0.1:5000/sendRss,101,0,0
+1586089388183,101,save-0,302,FOUND,Grupa wątków 1-46,text,true,,580,686,100,100,http://127.0.0.1:5000/sendRss,101,0,0
+1586089388284,112641,save-1,200,OK,Grupa wątków 1-46,text,true,,350836,123,100,100,http://127.0.0.1:5000/sendRss,112641,0,0
+1586089390444,112207,delete,200,OK,Grupa wątków 1-86,text,true,,358253,562,100,100,http://127.0.0.1:5000/sendRss,81,0,0
+1586089390444,81,delete-0,302,FOUND,Grupa wątków 1-86,text,true,,592,439,100,100,http://127.0.0.1:5000/delete,81,0,0
+1586089390525,112126,delete-1,200,OK,Grupa wątków 1-86,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,112126,0,1
+1586089391414,112320,delete,200,OK,Grupa wątków 1-87,text,true,,358253,547,100,100,http://127.0.0.1:5000/sendRss,99,0,1
+1586089391414,99,delete-0,302,FOUND,Grupa wątków 1-87,text,true,,592,424,100,100,http://127.0.0.1:5000/delete,99,0,1
+1586089391513,112221,delete-1,200,OK,Grupa wątków 1-87,text,true,,357661,123,100,100,http://127.0.0.1:5000/sendRss,112221,0,1
+1586089402622,101989,save,200,OK,Grupa wątków 1-50,text,true,,371891,809,100,100,http://127.0.0.1:5000/sendRss,100,0,0
+1586089402622,100,save-0,302,FOUND,Grupa wątków 1-50,text,true,,580,686,100,100,http://127.0.0.1:5000/sendRss,100,0,0
+1586089402722,101889,save-1,200,OK,Grupa wątków 1-50,text,true,,371311,123,100,100,http://127.0.0.1:5000/sendRss,101889,0,1
+1586089394785,110005,save,200,OK,Grupa wątków 1-48,text,true,,365066,789,100,100,http://127.0.0.1:5000/sendRss,98,0,0
+1586089394785,98,save-0,302,FOUND,Grupa wątków 1-48,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,98,0,0
+1586089394883,109907,save-1,200,OK,Grupa wątków 1-48,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,109907,0,1
+1586089397413,109215,delete,200,OK,Grupa wątków 1-93,text,true,,365078,553,100,100,http://127.0.0.1:5000/sendRss,89,0,0
+1586089397413,89,delete-0,302,FOUND,Grupa wątków 1-93,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,89,0,0
+1586089397502,109126,delete-1,200,OK,Grupa wątków 1-93,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,109121,0,0
+1586089396454,110741,delete,200,OK,Grupa wątków 1-92,text,true,,365078,559,100,100,http://127.0.0.1:5000/sendRss,104,0,0
+1586089396454,104,delete-0,302,FOUND,Grupa wątków 1-92,text,true,,592,436,100,100,http://127.0.0.1:5000/delete,104,0,0
+1586089396558,110637,delete-1,200,OK,Grupa wątków 1-92,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,110637,0,0
+1586089398429,110993,delete,200,OK,Grupa wątków 1-94,text,true,,365078,550,100,100,http://127.0.0.1:5000/sendRss,72,0,0
+1586089398429,72,delete-0,302,FOUND,Grupa wątków 1-94,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,72,0,0
+1586089398501,110921,delete-1,200,OK,Grupa wątków 1-94,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,110921,0,0
+1586089402412,109680,delete,200,OK,Grupa wątków 1-98,text,true,,365078,565,100,100,http://127.0.0.1:5000/sendRss,111,0,0
+1586089402412,111,delete-0,302,FOUND,Grupa wątków 1-98,text,true,,592,442,100,100,http://127.0.0.1:5000/delete,111,0,0
+1586089402523,109569,delete-1,200,OK,Grupa wątków 1-98,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,109569,0,0
+1586089381961,130541,save,200,OK,Grupa wątków 1-44,text,true,,337766,805,100,100,http://127.0.0.1:5000/sendRss,91,0,0
+1586089381961,91,save-0,302,FOUND,Grupa wątków 1-44,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,91,0,0
+1586089382052,130450,save-1,200,OK,Grupa wątków 1-44,text,true,,337186,123,100,100,http://127.0.0.1:5000/sendRss,130449,0,0
+1586089401413,111907,delete,200,OK,Grupa wątków 1-97,text,true,,365078,547,100,100,http://127.0.0.1:5000/sendRss,98,0,1
+1586089401413,98,delete-0,302,FOUND,Grupa wątków 1-97,text,true,,592,424,100,100,http://127.0.0.1:5000/delete,98,0,1
+1586089401511,111809,delete-1,200,OK,Grupa wątków 1-97,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,111805,0,0
+1586089403418,110149,delete,200,OK,Grupa wątków 1-99,text,true,,371903,544,100,100,http://127.0.0.1:5000/sendRss,105,0,0
+1586089403418,105,delete-0,302,FOUND,Grupa wątków 1-99,text,true,,592,421,100,100,http://127.0.0.1:5000/delete,105,0,0
+1586089403523,110044,delete-1,200,OK,Grupa wątków 1-99,text,true,,371311,123,100,100,http://127.0.0.1:5000/sendRss,110040,0,1
+1586089404433,111648,delete,200,OK,Grupa wątków 1-100,text,true,,371903,541,100,100,http://127.0.0.1:5000/sendRss,83,0,0
+1586089404433,83,delete-0,302,FOUND,Grupa wątków 1-100,text,true,,592,418,100,100,http://127.0.0.1:5000/delete,83,0,0
+1586089404516,111565,delete-1,200,OK,Grupa wątków 1-100,text,true,,371311,123,100,100,http://127.0.0.1:5000/sendRss,111564,0,0
+1586089399432,117428,delete,200,OK,Grupa wątków 1-95,text,true,,365078,553,100,100,http://127.0.0.1:5000/sendRss,80,0,0
+1586089399432,80,delete-0,302,FOUND,Grupa wątków 1-95,text,true,,592,430,100,100,http://127.0.0.1:5000/delete,80,0,0
+1586089399512,117348,delete-1,200,OK,Grupa wątków 1-95,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,117348,0,0
+1586089338230,180583,send,200,OK,Grupa wątków 1-13,text,true,,364907,365,100,100,http://127.0.0.1:5000/sendRss,64180,0,0
+1586089338230,64180,send-0,302,FOUND,Grupa wątków 1-13,text,true,,421,242,100,100,http://127.0.0.1:5000/send,64180,0,0
+1586089402412,116401,send-1,200,OK,Grupa wątków 1-13,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,116400,0,0
+1586089518817,23,get,200,OK,Grupa wątków 1-13,text,true,,2759,116,100,100,http://127.0.0.1:5000/,23,0,1
+1586089339792,185629,send,200,OK,Grupa wątków 1-2,text,true,,364907,365,100,100,http://127.0.0.1:5000/sendRss,61175,0,0
+1586089339792,61175,send-0,302,FOUND,Grupa wątków 1-2,text,true,,421,242,100,100,http://127.0.0.1:5000/send,61175,0,0
+1586089400969,124452,send-1,200,OK,Grupa wątków 1-2,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,124452,0,0
+1586089525425,20,get,200,OK,Grupa wątków 1-2,text,true,,2759,116,100,100,http://127.0.0.1:5000/,20,0,1
+1586089343381,189364,send,200,OK,Grupa wątków 1-14,text,true,,378557,365,100,100,http://127.0.0.1:5000/sendRss,71276,0,0
+1586089343381,71276,send-0,302,FOUND,Grupa wątków 1-14,text,true,,421,242,100,100,http://127.0.0.1:5000/send,71276,0,0
+1586089414659,118086,send-1,200,OK,Grupa wątków 1-14,text,true,,378136,123,100,100,http://127.0.0.1:5000/sendRss,118082,0,1
+1586089532750,18,get,200,OK,Grupa wątków 1-14,text,true,,2759,116,100,100,http://127.0.0.1:5000/,18,0,1
+1586089400459,134321,delete,200,OK,Grupa wątków 1-96,text,true,,365078,568,100,100,http://127.0.0.1:5000/sendRss,82,0,1
+1586089400459,82,delete-0,302,FOUND,Grupa wątków 1-96,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,82,0,1
+1586089400541,134239,delete-1,200,OK,Grupa wątków 1-96,text,true,,364486,123,100,100,http://127.0.0.1:5000/sendRss,134239,0,1
+1586089416895,118545,save,200,OK,Grupa wątków 1-54,text,true,,392366,805,100,100,http://127.0.0.1:5000/sendRss,100,0,0
+1586089416895,100,save-0,302,FOUND,Grupa wątków 1-54,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,100,0,0
+1586089416995,118445,save-1,200,OK,Grupa wątków 1-54,text,true,,391786,123,100,100,http://127.0.0.1:5000/sendRss,118445,0,0
+1586089415262,121063,save,200,OK,Grupa wątków 1-51,text,true,,385541,781,100,100,http://127.0.0.1:5000/sendRss,92,0,0
+1586089415262,92,save-0,302,FOUND,Grupa wątków 1-51,text,true,,580,658,100,100,http://127.0.0.1:5000/sendRss,92,0,0
+1586089415354,120971,save-1,200,OK,Grupa wątków 1-51,text,true,,384961,123,100,100,http://127.0.0.1:5000/sendRss,120971,0,0
+1586089425206,111426,save,200,OK,Grupa wątków 1-57,text,true,,406016,777,100,100,http://127.0.0.1:5000/sendRss,90,0,1
+1586089425206,90,save-0,302,FOUND,Grupa wątków 1-57,text,true,,580,654,100,100,http://127.0.0.1:5000/sendRss,90,0,1
+1586089425296,111336,save-1,200,OK,Grupa wątków 1-57,text,true,,405436,123,100,100,http://127.0.0.1:5000/sendRss,111336,0,0
+1586089411198,127516,save,200,OK,Grupa wątków 1-49,text,true,,378716,793,100,100,http://127.0.0.1:5000/sendRss,91,0,0
+1586089411198,91,save-0,302,FOUND,Grupa wątków 1-49,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,91,0,0
+1586089411289,127425,save-1,200,OK,Grupa wątków 1-49,text,true,,378136,123,100,100,http://127.0.0.1:5000/sendRss,127421,0,1
+1586089427366,114739,save,200,OK,Grupa wątków 1-55,text,true,,419666,797,100,100,http://127.0.0.1:5000/sendRss,100,0,0
+1586089427366,100,save-0,302,FOUND,Grupa wątków 1-55,text,true,,580,674,100,100,http://127.0.0.1:5000/sendRss,100,0,0
+1586089427466,114639,save-1,200,OK,Grupa wątków 1-55,text,true,,419086,123,100,100,http://127.0.0.1:5000/sendRss,114638,0,0
+1586089417700,132755,save,200,OK,Grupa wątków 1-52,text,true,,399191,813,100,100,http://127.0.0.1:5000/sendRss,82,0,0
+1586089417700,82,save-0,302,FOUND,Grupa wątków 1-52,text,true,,580,690,100,100,http://127.0.0.1:5000/sendRss,82,0,0
+1586089417782,132673,save-1,200,OK,Grupa wątków 1-52,text,true,,398611,123,100,100,http://127.0.0.1:5000/sendRss,132670,0,0
+1586089426306,125748,delete,200,OK,Grupa wątków 1-9,text,true,,406028,568,100,100,http://127.0.0.1:5000/sendRss,82,0,0
+1586089426306,83,delete-0,302,FOUND,Grupa wątków 1-9,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,82,0,0
+1586089426389,125665,delete-1,200,OK,Grupa wątków 1-9,text,true,,405436,123,100,100,http://127.0.0.1:5000/sendRss,125665,0,0
+1586089437094,120383,delete,200,OK,Grupa wątków 1-10,text,true,,440153,568,100,100,http://127.0.0.1:5000/sendRss,65,0,0
+1586089437094,65,delete-0,302,FOUND,Grupa wątków 1-10,text,true,,592,445,100,100,http://127.0.0.1:5000/delete,65,0,0
+1586089437159,120318,delete-1,200,OK,Grupa wątków 1-10,text,true,,439561,123,100,100,http://127.0.0.1:5000/sendRss,120313,0,0
+1586089427336,130408,save,200,OK,Grupa wątków 1-56,text,true,,419666,785,100,100,http://127.0.0.1:5000/sendRss,87,0,0
+1586089427336,87,save-0,302,FOUND,Grupa wątków 1-56,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,87,0,0
+1586089427423,130321,save-1,200,OK,Grupa wątków 1-56,text,true,,419086,123,100,100,http://127.0.0.1:5000/sendRss,130316,0,0
+1586089431802,139809,save,200,OK,Grupa wątków 1-53,text,true,,426491,805,100,100,http://127.0.0.1:5000/sendRss,85,0,0
+1586089431802,85,save-0,302,FOUND,Grupa wątków 1-53,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,85,0,0
+1586089431887,139724,save-1,200,OK,Grupa wątków 1-53,text,true,,425911,123,100,100,http://127.0.0.1:5000/sendRss,139724,0,0
+1586089345701,228232,send,200,OK,Grupa wątków 1-15,text,true,,439982,365,100,100,http://127.0.0.1:5000/sendRss,92253,0,0
+1586089345701,92253,send-0,302,FOUND,Grupa wątków 1-15,text,true,,421,242,100,100,http://127.0.0.1:5000/send,92253,0,0
+1586089437956,135977,send-1,200,OK,Grupa wątków 1-15,text,true,,439561,123,100,100,http://127.0.0.1:5000/sendRss,135973,0,0
+1586089573937,26,get,200,OK,Grupa wątków 1-15,text,true,,2759,116,100,100,http://127.0.0.1:5000/,26,0,0
+1586089436397,138574,save,200,OK,Grupa wątków 1-62,text,true,,440141,793,100,100,http://127.0.0.1:5000/sendRss,122,0,0
+1586089436397,122,save-0,302,FOUND,Grupa wątków 1-62,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,122,0,0
+1586089436519,138452,save-1,200,OK,Grupa wątków 1-62,text,true,,439561,123,100,100,http://127.0.0.1:5000/sendRss,138451,0,0
+1586089438986,139867,save,200,OK,Grupa wątków 1-63,text,true,,446966,801,100,100,http://127.0.0.1:5000/sendRss,83,0,0
+1586089438986,83,save-0,302,FOUND,Grupa wątków 1-63,text,true,,580,678,100,100,http://127.0.0.1:5000/sendRss,83,0,0
+1586089439069,139784,save-1,200,OK,Grupa wątków 1-63,text,true,,446386,123,100,100,http://127.0.0.1:5000/sendRss,139777,0,0
+1586089442290,137364,save,200,OK,Grupa wątków 1-64,text,true,,467441,773,100,100,http://127.0.0.1:5000/sendRss,102,0,1
+1586089442290,102,save-0,302,FOUND,Grupa wątków 1-64,text,true,,580,650,100,100,http://127.0.0.1:5000/sendRss,102,0,1
+1586089442392,137262,save-1,200,OK,Grupa wątków 1-64,text,true,,466861,123,100,100,http://127.0.0.1:5000/sendRss,137258,0,0
+1586089442344,138063,save,200,OK,Grupa wątków 1-61,text,true,,467441,773,100,100,http://127.0.0.1:5000/sendRss,96,0,1
+1586089442344,96,save-0,302,FOUND,Grupa wątków 1-61,text,true,,580,650,100,100,http://127.0.0.1:5000/sendRss,96,0,1
+1586089442440,137967,save-1,200,OK,Grupa wątków 1-61,text,true,,466861,123,100,100,http://127.0.0.1:5000/sendRss,137967,0,1
+1586089441945,141049,save,200,OK,Grupa wątków 1-58,text,true,,453791,809,100,100,http://127.0.0.1:5000/sendRss,182,0,0
+1586089441945,182,save-0,302,FOUND,Grupa wątków 1-58,text,true,,580,686,100,100,http://127.0.0.1:5000/sendRss,182,0,0
+1586089442127,140867,save-1,200,OK,Grupa wątków 1-58,text,true,,453211,123,100,100,http://127.0.0.1:5000/sendRss,140864,0,0
+1586089350811,244270,send,200,OK,Grupa wątków 1-18,text,true,,467282,365,100,100,http://127.0.0.1:5000/sendRss,98305,0,1
+1586089350811,98306,send-0,302,FOUND,Grupa wątków 1-18,text,true,,421,242,100,100,http://127.0.0.1:5000/send,98305,0,1
+1586089449120,145961,send-1,200,OK,Grupa wątków 1-18,text,true,,466861,123,100,100,http://127.0.0.1:5000/sendRss,145961,0,0
+1586089595085,23,get,200,OK,Grupa wątków 1-18,text,true,,2759,116,100,100,http://127.0.0.1:5000/,23,0,1
+1586089451763,149680,save,200,OK,Grupa wątków 1-6,text,true,,487916,797,100,100,http://127.0.0.1:5000/sendRss,80,0,1
+1586089451763,80,save-0,302,FOUND,Grupa wątków 1-6,text,true,,580,674,100,100,http://127.0.0.1:5000/sendRss,80,0,1
+1586089451843,149600,save-1,200,OK,Grupa wątków 1-6,text,true,,487336,123,100,100,http://127.0.0.1:5000/sendRss,149591,0,0
+1586089352402,252568,send,200,OK,Grupa wątków 1-16,text,true,,508232,365,100,100,http://127.0.0.1:5000/sendRss,106894,0,0
+1586089352402,106894,send-0,302,FOUND,Grupa wątków 1-16,text,true,,421,242,100,100,http://127.0.0.1:5000/send,106894,0,0
+1586089459299,145671,send-1,200,OK,Grupa wątków 1-16,text,true,,507811,123,100,100,http://127.0.0.1:5000/sendRss,145671,0,0
+1586089604975,21,get,200,OK,Grupa wątków 1-16,text,true,,2759,116,100,100,http://127.0.0.1:5000/,21,0,0
+1586089449218,157315,save,200,OK,Grupa wątków 1-60,text,true,,474266,797,100,100,http://127.0.0.1:5000/sendRss,73,0,1
+1586089449218,73,save-0,302,FOUND,Grupa wątków 1-60,text,true,,580,674,100,100,http://127.0.0.1:5000/sendRss,73,0,1
+1586089449291,157242,save-1,200,OK,Grupa wątków 1-60,text,true,,473686,123,100,100,http://127.0.0.1:5000/sendRss,157239,0,1
+1586089436450,170166,save,200,OK,Grupa wątków 1-59,text,true,,440141,809,100,100,http://127.0.0.1:5000/sendRss,133,0,0
+1586089436450,133,save-0,302,FOUND,Grupa wątków 1-59,text,true,,580,686,100,100,http://127.0.0.1:5000/sendRss,133,0,0
+1586089436584,170032,save-1,200,OK,Grupa wątków 1-59,text,true,,439561,123,100,100,http://127.0.0.1:5000/sendRss,170032,0,0
+1586089459203,154842,save,200,OK,Grupa wątków 1-68,text,true,,508391,797,100,100,http://127.0.0.1:5000/sendRss,90,0,0
+1586089459203,90,save-0,302,FOUND,Grupa wątków 1-68,text,true,,580,674,100,100,http://127.0.0.1:5000/sendRss,90,0,0
+1586089459293,154752,save-1,200,OK,Grupa wątków 1-68,text,true,,507811,123,100,100,http://127.0.0.1:5000/sendRss,154752,0,0
+1586089457758,164038,save,200,OK,Grupa wątków 1-69,text,true,,501566,777,100,100,http://127.0.0.1:5000/sendRss,87,0,0
+1586089457758,87,save-0,302,FOUND,Grupa wątków 1-69,text,true,,580,654,100,100,http://127.0.0.1:5000/sendRss,87,0,0
+1586089457845,163951,save-1,200,OK,Grupa wątków 1-69,text,true,,500986,123,100,100,http://127.0.0.1:5000/sendRss,163948,0,0
+1586089461372,167107,save,200,OK,Grupa wątków 1-77,text,true,,515216,809,100,100,http://127.0.0.1:5000/sendRss,90,0,0
+1586089461372,90,save-0,302,FOUND,Grupa wątków 1-77,text,true,,580,686,100,100,http://127.0.0.1:5000/sendRss,90,0,0
+1586089461463,167016,save-1,200,OK,Grupa wątków 1-77,text,true,,514636,123,100,100,http://127.0.0.1:5000/sendRss,167016,0,0
+1586089466097,166149,save,200,OK,Grupa wątków 1-70,text,true,,528866,813,100,100,http://127.0.0.1:5000/sendRss,96,0,0
+1586089466097,96,save-0,302,FOUND,Grupa wątków 1-70,text,true,,580,690,100,100,http://127.0.0.1:5000/sendRss,96,0,0
+1586089466193,166053,save-1,200,OK,Grupa wątków 1-70,text,true,,528286,123,100,100,http://127.0.0.1:5000/sendRss,166052,0,0
+1586089465669,166825,save,200,OK,Grupa wątków 1-67,text,true,,522041,777,100,100,http://127.0.0.1:5000/sendRss,103,0,0
+1586089465669,103,save-0,302,FOUND,Grupa wątków 1-67,text,true,,580,654,100,100,http://127.0.0.1:5000/sendRss,103,0,0
+1586089465772,166722,save-1,200,OK,Grupa wątków 1-67,text,true,,521461,123,100,100,http://127.0.0.1:5000/sendRss,166721,0,1
+1586089450674,181973,save,200,OK,Grupa wątków 1-66,text,true,,481091,801,100,100,http://127.0.0.1:5000/sendRss,71,0,0
+1586089450674,71,save-0,302,FOUND,Grupa wątków 1-66,text,true,,580,678,100,100,http://127.0.0.1:5000/sendRss,71,0,0
+1586089450745,181902,save-1,200,OK,Grupa wątków 1-66,text,true,,480511,123,100,100,http://127.0.0.1:5000/sendRss,181902,0,1
+1586089472525,160392,save,200,OK,Grupa wątków 1-75,text,true,,542516,777,100,100,http://127.0.0.1:5000/sendRss,130,0,1
+1586089472525,130,save-0,302,FOUND,Grupa wątków 1-75,text,true,,580,654,100,100,http://127.0.0.1:5000/sendRss,130,0,1
+1586089472655,160262,save-1,200,OK,Grupa wątków 1-75,text,true,,541936,123,100,100,http://127.0.0.1:5000/sendRss,160261,0,1
+1586089463740,175906,delete,200,OK,Grupa wątków 1-11,text,true,,515228,565,100,100,http://127.0.0.1:5000/sendRss,82,0,0
+1586089463740,82,delete-0,302,FOUND,Grupa wątków 1-11,text,true,,592,442,100,100,http://127.0.0.1:5000/delete,82,0,0
+1586089463822,175824,delete-1,200,OK,Grupa wątków 1-11,text,true,,514636,123,100,100,http://127.0.0.1:5000/sendRss,175820,0,0
+1586089467508,174174,save,200,OK,Grupa wątków 1-8,text,true,,535691,781,100,100,http://127.0.0.1:5000/sendRss,118,0,1
+1586089467508,118,save-0,302,FOUND,Grupa wątków 1-8,text,true,,580,658,100,100,http://127.0.0.1:5000/sendRss,118,0,1
+1586089467626,174056,save-1,200,OK,Grupa wątków 1-8,text,true,,535111,123,100,100,http://127.0.0.1:5000/sendRss,174056,0,0
+1586089475253,166881,save,200,OK,Grupa wątków 1-83,text,true,,549341,805,100,100,http://127.0.0.1:5000/sendRss,81,0,1
+1586089475253,81,save-0,302,FOUND,Grupa wątków 1-83,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,81,0,1
+1586089475334,166800,save-1,200,OK,Grupa wątków 1-83,text,true,,548761,123,100,100,http://127.0.0.1:5000/sendRss,166799,0,1
+1586089479826,165936,save,200,OK,Grupa wątków 1-78,text,true,,569816,805,100,100,http://127.0.0.1:5000/sendRss,70,0,1
+1586089479826,70,save-0,302,FOUND,Grupa wątków 1-78,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,70,0,1
+1586089479896,165866,save-1,200,OK,Grupa wątków 1-78,text,true,,569236,123,100,100,http://127.0.0.1:5000/sendRss,165865,0,0
+1586089457774,192806,save,200,OK,Grupa wątków 1-65,text,true,,501566,813,100,100,http://127.0.0.1:5000/sendRss,94,0,1
+1586089457774,95,save-0,302,FOUND,Grupa wątków 1-65,text,true,,580,690,100,100,http://127.0.0.1:5000/sendRss,94,0,1
+1586089457869,192711,save-1,200,OK,Grupa wątków 1-65,text,true,,500986,123,100,100,http://127.0.0.1:5000/sendRss,192711,0,0
+1586089356020,296685,send,200,OK,Grupa wątków 1-19,text,true,,535532,365,100,100,http://127.0.0.1:5000/sendRss,115632,0,0
+1586089356020,115632,send-0,302,FOUND,Grupa wątków 1-19,text,true,,421,242,100,100,http://127.0.0.1:5000/send,115632,0,0
+1586089471656,181049,send-1,200,OK,Grupa wątków 1-19,text,true,,535111,123,100,100,http://127.0.0.1:5000/sendRss,181049,0,0
+1586089652712,15,get,200,OK,Grupa wątków 1-19,text,true,,2759,116,100,100,http://127.0.0.1:5000/,15,0,0
+1586089477247,181272,save,200,OK,Grupa wątków 1-73,text,true,,556166,801,100,100,http://127.0.0.1:5000/sendRss,117,0,1
+1586089477247,117,save-0,302,FOUND,Grupa wątków 1-73,text,true,,580,678,100,100,http://127.0.0.1:5000/sendRss,117,0,1
+1586089477364,181155,save-1,200,OK,Grupa wątków 1-73,text,true,,555586,123,100,100,http://127.0.0.1:5000/sendRss,181149,0,1
+1586089485115,175393,save,200,OK,Grupa wątków 1-81,text,true,,603941,781,100,100,http://127.0.0.1:5000/sendRss,87,0,1
+1586089485115,87,save-0,302,FOUND,Grupa wątków 1-81,text,true,,580,658,100,100,http://127.0.0.1:5000/sendRss,87,0,1
+1586089485203,175305,save-1,200,OK,Grupa wątków 1-81,text,true,,603361,123,100,100,http://127.0.0.1:5000/sendRss,175304,0,1
+1586089480592,180110,save,200,OK,Grupa wątków 1-71,text,true,,576641,773,100,100,http://127.0.0.1:5000/sendRss,115,0,0
+1586089480592,115,save-0,302,FOUND,Grupa wątków 1-71,text,true,,580,650,100,100,http://127.0.0.1:5000/sendRss,115,0,0
+1586089480707,179995,save-1,200,OK,Grupa wątków 1-71,text,true,,576061,123,100,100,http://127.0.0.1:5000/sendRss,179994,0,0
+1586089484653,177361,save,200,OK,Grupa wątków 1-91,text,true,,597116,781,100,100,http://127.0.0.1:5000/sendRss,122,0,0
+1586089484653,122,save-0,302,FOUND,Grupa wątków 1-91,text,true,,580,658,100,100,http://127.0.0.1:5000/sendRss,122,0,0
+1586089484775,177239,save-1,200,OK,Grupa wątków 1-91,text,true,,596536,123,100,100,http://127.0.0.1:5000/sendRss,177236,0,1
+1586089480716,183893,save,200,OK,Grupa wątków 1-1,text,true,,583466,797,100,100,http://127.0.0.1:5000/sendRss,125,0,1
+1586089480716,125,save-0,302,FOUND,Grupa wątków 1-1,text,true,,580,674,100,100,http://127.0.0.1:5000/sendRss,125,0,1
+1586089480841,183768,save-1,200,OK,Grupa wątków 1-1,text,true,,582886,123,100,100,http://127.0.0.1:5000/sendRss,183767,0,0
+1586089492529,174939,delete,200,OK,Grupa wątków 1-12,text,true,,624428,550,100,100,http://127.0.0.1:5000/sendRss,72,0,0
+1586089492529,72,delete-0,302,FOUND,Grupa wątków 1-12,text,true,,592,427,100,100,http://127.0.0.1:5000/delete,72,0,0
+1586089492601,174867,delete-1,200,OK,Grupa wątków 1-12,text,true,,623836,123,100,100,http://127.0.0.1:5000/sendRss,174867,0,0
+1586089490591,177701,save,200,OK,Grupa wątków 1-79,text,true,,617591,773,100,100,http://127.0.0.1:5000/sendRss,83,0,4
+1586089490591,83,save-0,302,FOUND,Grupa wątków 1-79,text,true,,580,650,100,100,http://127.0.0.1:5000/sendRss,83,0,4
+1586089490674,177618,save-1,200,OK,Grupa wątków 1-79,text,true,,617011,123,100,100,http://127.0.0.1:5000/sendRss,177617,0,1
+1586089478536,191266,save,200,OK,Grupa wątków 1-80,text,true,,562991,805,100,100,http://127.0.0.1:5000/sendRss,70,0,0
+1586089478536,70,save-0,302,FOUND,Grupa wątków 1-80,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,70,0,0
+1586089478606,191196,save-1,200,OK,Grupa wątków 1-80,text,true,,562411,123,100,100,http://127.0.0.1:5000/sendRss,191194,0,1
+1586089495280,177217,save,200,OK,Grupa wątków 1-76,text,true,,631241,781,100,100,http://127.0.0.1:5000/sendRss,93,0,0
+1586089495280,93,save-0,302,FOUND,Grupa wątków 1-76,text,true,,580,658,100,100,http://127.0.0.1:5000/sendRss,93,0,0
+1586089495374,177123,save-1,200,OK,Grupa wątków 1-76,text,true,,630661,123,100,100,http://127.0.0.1:5000/sendRss,177119,0,0
+1586089480727,196929,save,200,OK,Grupa wątków 1-72,text,true,,590291,789,100,100,http://127.0.0.1:5000/sendRss,2150,0,0
+1586089480727,2150,save-0,302,FOUND,Grupa wątków 1-72,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,2150,0,0
+1586089482877,194779,save-1,200,OK,Grupa wątków 1-72,text,true,,589711,123,100,100,http://127.0.0.1:5000/sendRss,194779,0,0
+1586089495797,186784,save,200,OK,Grupa wątków 1-74,text,true,,638066,797,100,100,http://127.0.0.1:5000/sendRss,76,0,1
+1586089495797,76,save-0,302,FOUND,Grupa wątków 1-74,text,true,,580,674,100,100,http://127.0.0.1:5000/sendRss,76,0,1
+1586089495873,186708,save-1,200,OK,Grupa wątków 1-74,text,true,,637486,123,100,100,http://127.0.0.1:5000/sendRss,186707,0,0
+1586089360869,321741,send,200,OK,Grupa wątków 1-21,text,true,,651557,365,100,100,http://127.0.0.1:5000/sendRss,138102,0,0
+1586089360869,138102,send-0,302,FOUND,Grupa wątków 1-21,text,true,,421,242,100,100,http://127.0.0.1:5000/send,138102,0,0
+1586089498975,183635,send-1,200,OK,Grupa wątków 1-21,text,true,,651136,123,100,100,http://127.0.0.1:5000/sendRss,183634,0,1
+1586089682616,47,get,200,OK,Grupa wątków 1-21,text,true,,2759,116,100,100,http://127.0.0.1:5000/,47,0,0
+1586089500708,192419,save,200,OK,Grupa wątków 1-7,text,true,,672191,789,100,100,http://127.0.0.1:5000/sendRss,89,0,0
+1586089500708,89,save-0,302,FOUND,Grupa wątków 1-7,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,89,0,0
+1586089500797,192330,save-1,200,OK,Grupa wątków 1-7,text,true,,671611,123,100,100,http://127.0.0.1:5000/sendRss,192329,0,0
+1586089491481,206518,save,200,OK,Grupa wątków 1-84,text,true,,624416,773,100,100,http://127.0.0.1:5000/sendRss,101,0,0
+1586089491481,101,save-0,302,FOUND,Grupa wątków 1-84,text,true,,580,650,100,100,http://127.0.0.1:5000/sendRss,101,0,0
+1586089491582,206417,save-1,200,OK,Grupa wątków 1-84,text,true,,623836,123,100,100,http://127.0.0.1:5000/sendRss,206416,0,0
+1586089488943,214807,save,200,OK,Grupa wątków 1-85,text,true,,610766,801,100,100,http://127.0.0.1:5000/sendRss,78,0,0
+1586089488943,78,save-0,302,FOUND,Grupa wątków 1-85,text,true,,580,678,100,100,http://127.0.0.1:5000/sendRss,78,0,0
+1586089489021,214729,save-1,200,OK,Grupa wątków 1-85,text,true,,610186,123,100,100,http://127.0.0.1:5000/sendRss,214729,0,0
+1586089500408,207380,save,200,OK,Grupa wątków 1-88,text,true,,665366,813,100,100,http://127.0.0.1:5000/sendRss,96,0,0
+1586089500408,96,save-0,302,FOUND,Grupa wątków 1-88,text,true,,580,690,100,100,http://127.0.0.1:5000/sendRss,96,0,0
+1586089500504,207284,save-1,200,OK,Grupa wątków 1-88,text,true,,664786,123,100,100,http://127.0.0.1:5000/sendRss,207280,0,0
+1586089512097,197381,save,200,OK,Grupa wątków 1-98,text,true,,713141,793,100,100,http://127.0.0.1:5000/sendRss,86,0,0
+1586089512097,86,save-0,302,FOUND,Grupa wątków 1-98,text,true,,580,670,100,100,http://127.0.0.1:5000/sendRss,86,0,0
+1586089512183,197295,save-1,200,OK,Grupa wątków 1-98,text,true,,712561,123,100,100,http://127.0.0.1:5000/sendRss,197294,0,1
+1586089355001,356203,send,200,OK,Grupa wątków 1-17,text,true,,610607,365,100,100,http://127.0.0.1:5000/sendRss,135170,0,0
+1586089355001,135170,send-0,302,FOUND,Grupa wątków 1-17,text,true,,421,242,100,100,http://127.0.0.1:5000/send,135170,0,0
+1586089490175,221029,send-1,200,OK,Grupa wątków 1-17,text,true,,610186,123,100,100,http://127.0.0.1:5000/sendRss,221028,0,1
+1586089711210,38,get,200,OK,Grupa wątków 1-17,text,true,,2759,116,100,100,http://127.0.0.1:5000/,38,0,0
+1586089498345,213406,save,200,OK,Grupa wątków 1-82,text,true,,651716,805,100,100,http://127.0.0.1:5000/sendRss,70,0,0
+1586089498345,71,save-0,302,FOUND,Grupa wątków 1-82,text,true,,580,682,100,100,http://127.0.0.1:5000/sendRss,70,0,0
+1586089498416,213335,save-1,200,OK,Grupa wątków 1-82,text,true,,651136,123,100,100,http://127.0.0.1:5000/sendRss,213333,0,0
+1586089506631,213408,save,200,OK,Grupa wątków 1-93,text,true,,692666,785,100,100,http://127.0.0.1:5000/sendRss,131,0,1
+1586089506631,131,save-0,302,FOUND,Grupa wątków 1-93,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,131,0,1
+1586089506762,213277,save-1,200,OK,Grupa wątków 1-93,text,true,,692086,123,100,100,http://127.0.0.1:5000/sendRss,213276,0,0
+1586089507199,213088,save,200,OK,Grupa wątków 1-92,text,true,,699491,785,100,100,http://127.0.0.1:5000/sendRss,65,0,0
+1586089507199,65,save-0,302,FOUND,Grupa wątków 1-92,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,65,0,0
+1586089507264,213023,save-1,200,OK,Grupa wątków 1-92,text,true,,698911,123,100,100,http://127.0.0.1:5000/sendRss,213022,0,1
+1586089499480,223112,save,200,OK,Grupa wątków 1-89,text,true,,658541,785,100,100,http://127.0.0.1:5000/sendRss,122,0,1
+1586089499480,122,save-0,302,FOUND,Grupa wątków 1-89,text,true,,580,662,100,100,http://127.0.0.1:5000/sendRss,122,0,1
+1586089499602,222990,save-1,200,OK,Grupa wątków 1-89,text,true,,657961,123,100,100,http://127.0.0.1:5000/sendRss,222989,0,0
+1586089496263,230650,save,200,OK,Grupa wątków 1-90,text,true,,644891,781,100,100,http://127.0.0.1:5000/sendRss,110,0,1
+1586089496263,110,save-0,302,FOUND,Grupa wątków 1-90,text,true,,580,658,100,100,http://127.0.0.1:5000/sendRss,110,0,1
+1586089496373,230540,save-1,200,OK,Grupa wątków 1-90,text,true,,644311,123,100,100,http://127.0.0.1:5000/sendRss,230538,0,1
+1586089361375,366340,send,200,OK,Grupa wątków 1-20,text,true,,672032,365,100,100,http://127.0.0.1:5000/sendRss,140817,0,0
+1586089361375,140818,send-0,302,FOUND,Grupa wątków 1-20,text,true,,421,242,100,100,http://127.0.0.1:5000/send,140817,0,0
+1586089502197,225518,send-1,200,OK,Grupa wątków 1-20,text,true,,671611,123,100,100,http://127.0.0.1:5000/sendRss,225515,0,0
+1586089727722,26,get,200,OK,Grupa wątków 1-20,text,true,,2759,116,100,100,http://127.0.0.1:5000/,26,0,0
+1586089516865,215212,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-95,text,false,,3683,666,100,100,http://127.0.0.1:5000/sendRss,134,0,3
+1586089516865,134,save-0,302,FOUND,Grupa wątków 1-95,text,true,,580,666,100,100,http://127.0.0.1:5000/sendRss,134,0,3
+1586089516999,215078,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-95,text,false,,3103,0,100,100,http://127.0.0.1:5000/sendRss,0,0,0
+1586089669809,62273,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-80,text,false,,2612,0,99,99,http://127.0.0.1:5000/send,0,0,0
+1586089525446,206633,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-2,text,false,,3695,415,98,98,http://127.0.0.1:5000/sendRss,98,0,0
+1586089525446,98,delete-0,302,FOUND,Grupa wątków 1-2,text,true,,592,415,98,98,http://127.0.0.1:5000/delete,98,0,0
+1586089525544,206535,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-2,text,false,,3103,0,98,98,http://127.0.0.1:5000/sendRss,0,0,0
+1586089578858,153225,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-63,text,false,,2612,0,97,97,http://127.0.0.1:5000/send,0,0,0
+1586089447168,284921,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-39,text,false,,3524,242,96,96,http://127.0.0.1:5000/sendRss,274279,0,0
+1586089447168,274279,send-0,302,FOUND,Grupa wątków 1-39,text,true,,421,242,96,96,http://127.0.0.1:5000/send,274279,0,0
+1586089721455,10634,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-39,text,false,,3103,0,96,96,http://127.0.0.1:5000/sendRss,0,0,0
+1586089532768,199317,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-14,text,false,,3695,421,95,95,http://127.0.0.1:5000/sendRss,99,0,1
+1586089532768,99,delete-0,302,FOUND,Grupa wątków 1-14,text,true,,592,421,95,95,http://127.0.0.1:5000/delete,99,0,1
+1586089532867,199218,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-14,text,false,,3103,0,95,95,http://127.0.0.1:5000/sendRss,0,0,1
+1586089403859,328231,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-30,text,false,,3524,242,95,95,http://127.0.0.1:5000/sendRss,272080,0,0
+1586089403859,272080,send-0,302,FOUND,Grupa wątków 1-30,text,true,,421,242,95,95,http://127.0.0.1:5000/send,272080,0,0
+1586089675947,56143,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-30,text,false,,3103,0,95,95,http://127.0.0.1:5000/sendRss,0,0,0
+1586089571616,160472,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-53,text,false,,2612,0,93,93,http://127.0.0.1:5000/send,0,0,0
+1586089720047,12046,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-93,text,false,,2612,0,92,92,http://127.0.0.1:5000/send,0,0,0
+1586089722599,9496,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-89,text,false,,2612,0,91,91,http://127.0.0.1:5000/send,0,0,0
+1586089470525,261564,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-42,text,false,,2612,0,90,90,http://127.0.0.1:5000/send,0,0,1
+1586089642140,89955,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-83,text,false,,2612,0,89,89,http://127.0.0.1:5000/send,0,0,0
+1586089672503,59597,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-76,text,false,,2612,0,88,88,http://127.0.0.1:5000/send,0,0,0
+1586089374526,357571,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-23,text,false,,3524,242,87,87,http://127.0.0.1:5000/sendRss,186126,0,1
+1586089374526,186126,send-0,302,FOUND,Grupa wątków 1-23,text,true,,421,242,87,87,http://127.0.0.1:5000/send,186126,0,1
+1586089560658,171439,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-23,text,false,,3103,0,87,87,http://127.0.0.1:5000/sendRss,0,0,0
+1586089411560,320542,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-32,text,false,,3524,242,86,86,http://127.0.0.1:5000/sendRss,247127,0,1
+1586089411560,247127,send-0,302,FOUND,Grupa wątków 1-32,text,true,,421,242,86,86,http://127.0.0.1:5000/send,247127,0,1
+1586089658694,73408,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-32,text,false,,3103,0,86,86,http://127.0.0.1:5000/sendRss,0,0,0
+1586089534785,197316,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-96,text,false,,3683,654,85,85,http://127.0.0.1:5000/sendRss,113,0,0
+1586089534785,113,save-0,302,FOUND,Grupa wątków 1-96,text,true,,580,654,85,85,http://127.0.0.1:5000/sendRss,113,0,0
+1586089534899,197202,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-96,text,false,,3103,0,85,85,http://127.0.0.1:5000/sendRss,0,0,0
+1586089410750,321366,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-4,text,false,,3524,242,84,84,http://127.0.0.1:5000/sendRss,271863,0,1
+1586089410750,271863,send-0,302,FOUND,Grupa wątków 1-4,text,true,,421,242,84,84,http://127.0.0.1:5000/send,271863,0,1
+1586089682622,49494,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-4,text,false,,3103,0,84,84,http://127.0.0.1:5000/sendRss,0,0,0
+1586089698004,34115,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-84,text,false,,2612,0,83,83,http://127.0.0.1:5000/send,0,0,0
+1586089726923,5200,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-90,text,false,,2612,0,82,82,http://127.0.0.1:5000/send,0,0,0
+1586089473598,258532,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-41,text,false,,2612,0,81,81,http://127.0.0.1:5000/send,0,0,0
+1586089632653,99484,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-66,text,false,,2612,0,80,80,http://127.0.0.1:5000/send,0,0,0
+1586089462714,269418,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-38,text,false,,2612,0,79,79,http://127.0.0.1:5000/send,0,0,0
+1586089451843,280293,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-37,text,false,,2612,0,78,78,http://127.0.0.1:5000/send,0,0,1
+1586089516085,216056,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-100,text,false,,3683,658,77,77,http://127.0.0.1:5000/sendRss,99,0,0
+1586089516085,99,save-0,302,FOUND,Grupa wątków 1-100,text,true,,580,658,77,77,http://127.0.0.1:5000/sendRss,99,0,0
+1586089516184,215957,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-100,text,false,,3103,0,77,77,http://127.0.0.1:5000/sendRss,0,0,0
+1586089580413,151736,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-61,text,false,,2612,0,76,76,http://127.0.0.1:5000/send,0,0,0
+1586089441505,290645,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-34,text,false,,2612,0,75,75,http://127.0.0.1:5000/send,0,0,0
+1586089536330,195825,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-51,text,false,,2612,0,74,74,http://127.0.0.1:5000/send,0,0,0
+1586089381190,350968,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-26,text,false,,3524,242,73,73,http://127.0.0.1:5000/sendRss,209584,0,0
+1586089381190,209584,send-0,302,FOUND,Grupa wątków 1-26,text,true,,421,242,73,73,http://127.0.0.1:5000/send,209584,0,0
+1586089590782,141376,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-26,text,false,,3103,0,73,73,http://127.0.0.1:5000/sendRss,0,0,0
+1586089431554,300608,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-35,text,false,,3524,242,72,72,http://127.0.0.1:5000/sendRss,254593,0,0
+1586089431554,254593,send-0,302,FOUND,Grupa wątków 1-35,text,true,,421,242,72,72,http://127.0.0.1:5000/send,254593,0,0
+1586089686154,46008,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-35,text,false,,3103,0,72,72,http://127.0.0.1:5000/sendRss,0,0,0
+1586089632499,99663,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-67,text,false,,2612,0,71,71,http://127.0.0.1:5000/send,0,0,0
+1586089503738,228420,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-87,text,false,,3683,682,70,70,http://127.0.0.1:5000/sendRss,83,0,1
+1586089503738,83,save-0,302,FOUND,Grupa wątków 1-87,text,true,,580,682,70,70,http://127.0.0.1:5000/sendRss,83,0,1
+1586089503821,228337,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-87,text,false,,3103,0,70,70,http://127.0.0.1:5000/sendRss,0,0,0
+1586089682587,49580,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-74,text,false,,2612,0,69,69,http://127.0.0.1:5000/send,0,0,1
+1586089513325,218837,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-97,text,false,,3683,678,68,68,http://127.0.0.1:5000/sendRss,60,0,0
+1586089513325,60,save-0,302,FOUND,Grupa wątków 1-97,text,true,,580,678,68,68,http://127.0.0.1:5000/sendRss,60,0,0
+1586089513386,218776,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-97,text,false,,3103,0,68,68,http://127.0.0.1:5000/sendRss,0,0,0
+1586089418596,313571,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-33,text,false,,3524,242,67,67,http://127.0.0.1:5000/sendRss,266730,0,0
+1586089418596,266730,send-0,302,FOUND,Grupa wątków 1-33,text,true,,421,242,67,67,http://127.0.0.1:5000/send,266730,0,0
+1586089685333,46834,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-33,text,false,,3103,0,67,67,http://127.0.0.1:5000/sendRss,0,0,0
+1586089709483,22685,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-98,text,false,,2612,0,66,66,http://127.0.0.1:5000/send,0,0,0
+1586089487615,244549,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-47,text,false,,2612,0,65,65,http://127.0.0.1:5000/send,0,0,0
+1586089645768,86402,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-78,text,false,,2612,0,64,64,http://127.0.0.1:5000/send,0,0,1
+1586089579659,152510,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-64,text,false,,2612,0,63,63,http://127.0.0.1:5000/send,0,0,0
+1586089711248,20925,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-17,text,false,,3695,418,62,62,http://127.0.0.1:5000/sendRss,94,0,0
+1586089711248,94,delete-0,302,FOUND,Grupa wątków 1-17,text,true,,592,418,62,62,http://127.0.0.1:5000/delete,94,0,0
+1586089711342,20831,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-17,text,false,,3103,0,62,62,http://127.0.0.1:5000/sendRss,0,0,0
+1586089369920,362250,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-22,text,false,,3524,242,61,61,http://127.0.0.1:5000/sendRss,179538,0,1
+1586089369920,179538,send-0,302,FOUND,Grupa wątków 1-22,text,true,,421,242,61,61,http://127.0.0.1:5000/send,179538,0,1
+1586089549464,182706,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-22,text,false,,3103,0,61,61,http://127.0.0.1:5000/sendRss,0,0,0
+1586089658524,73649,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-73,text,false,,2612,0,60,60,http://127.0.0.1:5000/send,0,0,0
+1586089632251,99929,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-70,text,false,,2612,0,59,59,http://127.0.0.1:5000/send,0,0,0
+1586089595108,137071,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-18,text,false,,3695,445,59,59,http://127.0.0.1:5000/sendRss,84,0,0
+1586089595108,85,delete-0,302,FOUND,Grupa wątków 1-18,text,true,,592,445,59,59,http://127.0.0.1:5000/delete,84,0,0
+1586089595193,136986,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-18,text,false,,3103,0,59,59,http://127.0.0.1:5000/sendRss,0,0,0
+1586089606539,125643,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-60,text,false,,2612,0,57,57,http://127.0.0.1:5000/send,0,0,0
+1586089574975,157205,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-62,text,false,,2612,0,56,56,http://127.0.0.1:5000/send,0,0,0
+1586089512507,219673,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-44,text,false,,2612,0,55,55,http://127.0.0.1:5000/send,0,0,0
+1586089614050,118132,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-68,text,false,,2612,0,54,54,http://127.0.0.1:5000/send,0,0,0
+1586089518841,213339,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-13,text,false,,3695,430,54,54,http://127.0.0.1:5000/sendRss,103,0,0
+1586089518841,103,delete-0,302,FOUND,Grupa wątków 1-13,text,true,,592,430,54,54,http://127.0.0.1:5000/delete,103,0,0
+1586089518944,213236,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-13,text,false,,3103,0,54,54,http://127.0.0.1:5000/sendRss,0,0,0
+1586089391048,341135,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-28,text,false,,3524,242,52,52,http://127.0.0.1:5000/sendRss,238747,0,0
+1586089391048,238747,send-0,302,FOUND,Grupa wątków 1-28,text,true,,421,242,52,52,http://127.0.0.1:5000/send,238747,0,0
+1586089629802,102381,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-28,text,false,,3103,0,52,52,http://127.0.0.1:5000/sendRss,0,0,0
+1586089451382,280798,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-5,text,false,,2612,0,51,51,http://127.0.0.1:5000/send,0,0,0
+1586089557481,174703,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-10,text,false,,3683,690,51,51,http://127.0.0.1:5000/sendRss,88,0,0
+1586089557481,88,save-0,302,FOUND,Grupa wątków 1-10,text,true,,580,690,51,51,http://127.0.0.1:5000/sendRss,88,0,0
+1586089557569,174615,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-10,text,false,,3103,0,51,51,http://127.0.0.1:5000/sendRss,0,0,0
+1586089621801,110386,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-69,text,false,,2612,0,49,49,http://127.0.0.1:5000/send,0,0,0
+1586089437211,294972,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-36,text,false,,2612,0,48,48,http://127.0.0.1:5000/send,0,0,0
+1586089650586,81605,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-65,text,false,,2612,0,47,47,http://127.0.0.1:5000/send,0,0,1
+1586089682663,49529,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-21,text,false,,3695,433,46,46,http://127.0.0.1:5000/sendRss,996,0,0
+1586089682663,996,delete-0,302,FOUND,Grupa wątków 1-21,text,true,,592,433,46,46,http://127.0.0.1:5000/delete,996,0,0
+1586089683659,48533,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-21,text,false,,3103,0,46,46,http://127.0.0.1:5000/sendRss,0,0,1
+1586089632922,99268,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-75,text,false,,2612,0,46,46,http://127.0.0.1:5000/send,0,0,1
+1586089711757,20436,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-82,text,false,,2612,0,46,46,http://127.0.0.1:5000/send,0,0,4
+1586089582999,149191,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-58,text,false,,2612,0,45,45,http://127.0.0.1:5000/send,0,0,1
+1586089509426,222761,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-94,text,false,,3683,654,42,42,http://127.0.0.1:5000/sendRss,83,0,0
+1586089509426,83,save-0,302,FOUND,Grupa wątków 1-94,text,true,,580,654,42,42,http://127.0.0.1:5000/sendRss,83,0,0
+1586089509509,222678,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-94,text,false,,3103,0,42,42,http://127.0.0.1:5000/sendRss,0,0,0
+1586089475990,256197,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-45,text,false,,2612,0,41,41,http://127.0.0.1:5000/send,0,0,1
+1586089502657,229531,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-86,text,false,,3683,666,40,40,http://127.0.0.1:5000/sendRss,91,0,0
+1586089502657,91,save-0,302,FOUND,Grupa wątków 1-86,text,true,,580,666,40,40,http://127.0.0.1:5000/sendRss,91,0,0
+1586089502748,229440,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-86,text,false,,3103,0,40,40,http://127.0.0.1:5000/sendRss,0,0,0
+1586089411122,321072,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-27,text,false,,3524,242,39,39,http://127.0.0.1:5000/sendRss,259691,0,0
+1586089411122,259691,send-0,302,FOUND,Grupa wątków 1-27,text,true,,421,242,39,39,http://127.0.0.1:5000/send,259691,0,0
+1586089670822,61372,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-27,text,false,,3103,0,39,39,http://127.0.0.1:5000/sendRss,0,0,0
+1586089500928,231261,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-46,text,false,,2612,0,38,38,http://127.0.0.1:5000/send,0,0,0
+1586089707802,24393,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-88,text,false,,2612,0,37,37,http://127.0.0.1:5000/send,0,0,0
+1586089504614,227575,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-50,text,false,,2612,0,37,37,http://127.0.0.1:5000/send,0,0,0
+1586089703757,28438,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-85,text,false,,2612,0,36,36,http://127.0.0.1:5000/send,0,0,0
+1586089652728,79467,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-19,text,false,,3695,415,34,34,http://127.0.0.1:5000/sendRss,91,0,0
+1586089652728,91,delete-0,302,FOUND,Grupa wątków 1-19,text,true,,592,415,34,34,http://127.0.0.1:5000/delete,91,0,0
+1586089652819,79376,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-19,text,false,,3103,0,34,34,http://127.0.0.1:5000/sendRss,0,0,1
+1586089727749,4448,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-20,text,false,,3695,424,33,33,http://127.0.0.1:5000/sendRss,80,0,0
+1586089727749,80,delete-0,302,FOUND,Grupa wątków 1-20,text,true,,592,424,33,33,http://127.0.0.1:5000/delete,80,0,0
+1586089727829,4368,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-20,text,false,,3103,0,33,33,http://127.0.0.1:5000/sendRss,0,0,0
+1586089542108,190085,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-55,text,false,,2612,0,32,32,http://127.0.0.1:5000/send,0,0,0
+1586089368568,363625,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-24,text,false,,3524,242,31,31,http://127.0.0.1:5000/sendRss,181767,0,0
+1586089368568,181767,send-0,302,FOUND,Grupa wątków 1-24,text,true,,421,242,31,31,http://127.0.0.1:5000/send,181767,0,0
+1586089550340,181853,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-24,text,false,,3103,0,31,31,http://127.0.0.1:5000/sendRss,0,0,0
+1586089628483,103712,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-77,text,false,,2612,0,31,31,http://127.0.0.1:5000/send,0,0,0
+1586089390697,341501,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-3,text,false,,3524,242,29,29,http://127.0.0.1:5000/sendRss,264142,0,0
+1586089390697,264142,send-0,302,FOUND,Grupa wątków 1-3,text,true,,421,242,29,29,http://127.0.0.1:5000/send,264142,0,0
+1586089654848,77350,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-3,text,false,,3103,0,29,29,http://127.0.0.1:5000/sendRss,0,0,1
+1586089668297,63901,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-79,text,false,,2612,0,29,29,http://127.0.0.1:5000/send,0,0,1
+1586089550458,181736,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-52,text,false,,2612,0,27,27,http://127.0.0.1:5000/send,0,0,1
+1586089393411,338788,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-29,text,false,,3524,242,26,26,http://127.0.0.1:5000/sendRss,267647,0,0
+1586089393411,267647,send-0,302,FOUND,Grupa wątków 1-29,text,true,,421,242,26,26,http://127.0.0.1:5000/send,267647,0,0
+1586089661067,71132,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-29,text,false,,3103,0,26,26,http://127.0.0.1:5000/sendRss,0,0,0
+1586089660708,71491,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-71,text,false,,2612,0,26,26,http://127.0.0.1:5000/send,0,0,1
+1586089601448,130749,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-6,text,false,,2612,0,24,24,http://127.0.0.1:5000/send,0,0,0
+1586089481149,251044,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-40,text,false,,2612,0,24,24,http://127.0.0.1:5000/send,0,0,0
+1586089536636,195560,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-57,text,false,,2612,0,22,22,http://127.0.0.1:5000/send,0,0,1
+1586089667474,64726,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-12,text,false,,3683,658,21,21,http://127.0.0.1:5000/sendRss,141,0,0
+1586089667474,141,save-0,302,FOUND,Grupa wątków 1-12,text,true,,580,658,21,21,http://127.0.0.1:5000/sendRss,141,0,0
+1586089667615,64585,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-12,text,false,,3103,0,21,21,http://127.0.0.1:5000/sendRss,0,0,0
+1586089414002,318198,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-31,text,false,,3524,242,21,21,http://127.0.0.1:5000/sendRss,250802,0,1
+1586089414002,250802,send-0,302,FOUND,Grupa wątków 1-31,text,true,,421,242,21,21,http://127.0.0.1:5000/send,250802,0,1
+1586089664812,67388,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-31,text,false,,3103,0,21,21,http://127.0.0.1:5000/sendRss,0,0,1
+1586089664615,67586,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-1,text,false,,2612,0,19,19,http://127.0.0.1:5000/send,0,0,0
+1586089513572,218625,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-99,text,false,,3683,662,19,19,http://127.0.0.1:5000/sendRss,102,0,0
+1586089513572,102,save-0,302,FOUND,Grupa wątków 1-99,text,true,,580,662,19,19,http://127.0.0.1:5000/sendRss,102,0,0
+1586089513674,218523,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-99,text,false,,3103,0,19,19,http://127.0.0.1:5000/sendRss,0,0,0
+1586089720294,11909,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-92,text,false,,2612,0,17,17,http://127.0.0.1:5000/send,0,0,0
+1586089552057,180141,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-9,text,false,,3683,654,16,16,http://127.0.0.1:5000/sendRss,72,0,1
+1586089552057,72,save-0,302,FOUND,Grupa wątków 1-9,text,true,,580,654,16,16,http://127.0.0.1:5000/sendRss,72,0,1
+1586089552129,180069,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-9,text,false,,3103,0,16,16,http://127.0.0.1:5000/sendRss,0,0,1
+1586089538719,193481,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-49,text,false,,2612,0,15,15,http://127.0.0.1:5000/send,0,0,1
+1586089677663,54540,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-72,text,false,,2612,0,14,14,http://127.0.0.1:5000/send,0,0,0
+1586089504794,227405,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-48,text,false,,2612,0,13,13,http://127.0.0.1:5000/send,0,0,0
+1586089639651,92553,save,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-11,text,false,,3683,650,13,13,http://127.0.0.1:5000/sendRss,88,0,1
+1586089639651,88,save-0,302,FOUND,Grupa wątków 1-11,text,true,,580,650,13,13,http://127.0.0.1:5000/sendRss,88,0,1
+1586089693133,39073,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-7,text,false,,2612,0,12,12,http://127.0.0.1:5000/send,0,0,1
+1586089639739,92465,save-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-11,text,false,,3103,0,13,13,http://127.0.0.1:5000/sendRss,0,0,1
+1586089535444,196758,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-54,text,false,,2612,0,11,11,http://127.0.0.1:5000/send,0,0,1
+1586089660513,71692,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-81,text,false,,2612,0,9,9,http://127.0.0.1:5000/send,0,0,0
+1586089557748,174454,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-56,text,false,,2612,0,8,8,http://127.0.0.1:5000/send,0,0,0
+1586089606622,125583,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-59,text,false,,2612,0,7,7,http://127.0.0.1:5000/send,0,0,1
+1586089573964,158239,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-15,text,false,,3695,415,7,7,http://127.0.0.1:5000/sendRss,222,0,0
+1586089573964,222,delete-0,302,FOUND,Grupa wątków 1-15,text,true,,592,415,7,7,http://127.0.0.1:5000/delete,222,0,0
+1586089574186,158017,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-15,text,false,,3103,0,7,7,http://127.0.0.1:5000/sendRss,0,0,1
+1586089662021,70185,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-91,text,false,,2612,0,6,6,http://127.0.0.1:5000/send,0,0,0
+1586089641687,90518,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-8,text,false,,2612,0,5,5,http://127.0.0.1:5000/send,0,0,1
+1586089469726,262474,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-43,text,false,,2612,0,3,3,http://127.0.0.1:5000/send,0,0,0
+1586089604996,127209,delete,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-16,text,false,,3695,430,3,3,http://127.0.0.1:5000/sendRss,96,0,0
+1586089604996,96,delete-0,302,FOUND,Grupa wątków 1-16,text,true,,592,430,3,3,http://127.0.0.1:5000/delete,96,0,0
+1586089605092,127113,delete-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-16,text,false,,3103,0,3,3,http://127.0.0.1:5000/sendRss,0,0,0
+1586089383979,348225,send,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-25,text,false,,3524,242,2,2,http://127.0.0.1:5000/sendRss,202346,0,0
+1586089383979,202346,send-0,302,FOUND,Grupa wątków 1-25,text,true,,421,242,2,2,http://127.0.0.1:5000/send,202346,0,0
+1586089586332,145872,send-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Grupa wątków 1-25,text,false,,3103,0,2,2,http://127.0.0.1:5000/sendRss,0,0,0
